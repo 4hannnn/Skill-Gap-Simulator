@@ -1,0 +1,10 @@
+pandas
+numpy
+tensorflow
+streamlit
+plotly
+scikit-learn
+matplotlib
+seaborn
+tqdm
+playwright

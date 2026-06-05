@@ -1,0 +1,61 @@
+role,skill_name,skill_category,importance_score,avg_learning_hours,market_demand_normal,market_demand_competitive,market_demand_booming
+Data Analyst,Python,Technical,0.92,200.0,0.92,1.0,0.83
+Data Analyst,SQL,Technical,0.95,120.0,0.95,1.0,0.85
+Data Analyst,Statistics,Technical,0.85,180.0,0.85,0.98,0.77
+Data Analyst,Data Modeling,Technical,0.7,150.0,0.7,0.8,0.63
+Data Analyst,ETL Process,Technical,0.65,100.0,0.65,0.75,0.59
+Data Analyst,Hypothesis Testing,Technical,0.6,80.0,0.6,0.69,0.54
+Data Analyst,Regression Analysis,Technical,0.58,90.0,0.58,0.67,0.52
+Data Analyst,A B Testing,Technical,0.55,60.0,0.55,0.63,0.5
+Data Analyst,Excel,Tool,0.88,80.0,0.88,1.0,0.79
+Data Analyst,Tableau,Tool,0.78,100.0,0.78,0.9,0.7
+Data Analyst,Power Bi,Tool,0.75,100.0,0.75,0.86,0.68
+Data Analyst,Pandas,Tool,0.8,60.0,0.8,0.92,0.72
+Data Analyst,Numpy,Tool,0.65,40.0,0.65,0.75,0.59
+Data Analyst,Google Sheets,Tool,0.78,30.0,0.5,0.57,0.45
+Data Analyst,Jupyter Notebook,Tool,0.8999999999999999,20.0,0.6,0.69,0.54
+Data Analyst,Analytical Thinking,Soft Skill,0.9,100.0,0.9,1.0,0.81
+Data Analyst,Communication,Soft Skill,0.82,80.0,0.82,0.94,0.74
+Data Analyst,Problem Solving,Soft Skill,0.85,90.0,0.85,0.98,0.77
+Data Analyst,Attention To Detail,Soft Skill,0.75,50.0,0.75,0.86,0.68
+Data Analyst,Business Acumen,Soft Skill,0.68,120.0,0.68,0.78,0.61
+Frontend Developer,HTML,Technical,0.95,60.0,0.95,1.0,0.85
+Frontend Developer,CSS,Technical,0.95,80.0,0.95,1.0,0.85
+Frontend Developer,Javascript,Technical,0.8,250.0,0.98,1.0,0.88
+Frontend Developer,Typescript,Technical,0.78,100.0,0.78,0.9,0.7
+Frontend Developer,React,Technical,0.8,150.0,0.88,1.0,0.79
+Frontend Developer,Vue.Js,Technical,0.55,120.0,0.55,0.63,0.5
+Frontend Developer,Rest Api,Technical,0.8,60.0,0.8,0.92,0.72
+Frontend Developer,Git,Technical,0.9,40.0,0.9,1.0,0.81
+Frontend Developer,Responsive Design,Technical,0.85,50.0,0.85,0.98,0.77
+Frontend Developer,Web Performance,Technical,0.62,80.0,0.62,0.71,0.56
+Frontend Developer,Vs Code,Tool,0.82,20.0,0.82,0.94,0.74
+Frontend Developer,Chrome Devtools,Tool,0.75,30.0,0.75,0.86,0.68
+Frontend Developer,Webpack,Tool,0.8699999999999999,50.0,0.58,0.67,0.52
+Frontend Developer,Npm Yarn,Tool,0.8,25.0,0.8,0.92,0.72
+Frontend Developer,Figma (Basic),Tool,0.5,40.0,0.5,0.57,0.45
+Frontend Developer,Github,Tool,0.85,30.0,0.85,0.98,0.77
+Frontend Developer,Problem Solving,Soft Skill,0.88,75.0,0.88,1.0,0.79
+Frontend Developer,Collaboration,Soft Skill,0.8,60.0,0.8,0.92,0.72
+Frontend Developer,Attention To Detail,Soft Skill,0.75,75.0,0.75,0.86,0.68
+Frontend Developer,Time Management,Soft Skill,0.7,40.0,0.7,0.8,0.63
+UI/UX Designer,User Research,Technical,0.92,120.0,0.92,1.0,0.83
+UI/UX Designer,Wireframing,Technical,0.9,60.0,0.9,1.0,0.81
+UI/UX Designer,Prototyping,Technical,0.88,80.0,0.88,1.0,0.79
+UI/UX Designer,Usability Testing,Technical,0.82,70.0,0.82,0.94,0.74
+UI/UX Designer,Information Architecture,Technical,0.75,90.0,0.75,0.86,0.68
+UI/UX Designer,Interaction Design,Technical,0.8,100.0,0.8,0.92,0.72
+UI/UX Designer,Design Systems,Technical,0.72,80.0,0.72,0.83,0.65
+UI/UX Designer,Accessibility,Technical,0.975,50.0,0.65,0.75,0.59
+UI/UX Designer,Figma,Tool,0.95,100.0,0.95,1.0,0.85
+UI/UX Designer,Adobe Xd,Tool,0.68,80.0,0.68,0.78,0.61
+UI/UX Designer,Sketch,Tool,0.55,70.0,0.55,0.63,0.5
+UI/UX Designer,Miro,Tool,0.5,20.0,0.5,0.57,0.45
+UI/UX Designer,Invision,Tool,0.45,30.0,0.45,0.52,0.41
+UI/UX Designer,Adobe Illustrator,Tool,0.6,120.0,0.6,0.69,0.54
+UI/UX Designer,Maze,Tool,0.4,25.0,0.4,0.46,0.36
+UI/UX Designer,Empathy,Soft Skill,0.9,60.0,0.9,1.0,0.81
+UI/UX Designer,Communication,Soft Skill,0.85,80.0,0.85,0.98,0.77
+UI/UX Designer,Visual Thinking,Soft Skill,0.82,70.0,0.82,0.94,0.74
+UI/UX Designer,Collaboration,Soft Skill,0.78,60.0,0.78,0.9,0.7
+UI/UX Designer,Creativity,Soft Skill,0.88,80.0,0.88,1.0,0.79

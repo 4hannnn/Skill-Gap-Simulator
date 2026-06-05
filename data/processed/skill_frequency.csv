@@ -1,0 +1,61 @@
+role_category,skill_name,frequency,total_postings,frequency_pct
+Data Analyst,A B Testing,89,200,44.5
+Data Analyst,Analytical Thinking,124,200,62.0
+Data Analyst,Attention To Detail,111,200,55.5
+Data Analyst,Business Acumen,100,200,50.0
+Data Analyst,Communication,115,200,57.5
+Data Analyst,Data Modeling,100,200,50.0
+Data Analyst,ETL Process,107,200,53.5
+Data Analyst,Excel,119,200,59.5
+Data Analyst,Google Sheets,85,200,42.5
+Data Analyst,Hypothesis Testing,88,200,44.0
+Data Analyst,Jupyter Notebook,102,200,51.0
+Data Analyst,Numpy,106,200,53.0
+Data Analyst,Pandas,111,200,55.5
+Data Analyst,Power Bi,113,200,56.5
+Data Analyst,Problem Solving,114,200,57.0
+Data Analyst,Python,128,200,64.0
+Data Analyst,Regression Analysis,103,200,51.5
+Data Analyst,SQL,143,200,71.5
+Data Analyst,Statistics,116,200,58.0
+Data Analyst,Tableau,109,200,54.5
+Frontend Developer,Attention To Detail,108,200,54.0
+Frontend Developer,CSS,128,200,64.0
+Frontend Developer,Chrome Devtools,99,200,49.5
+Frontend Developer,Collaboration,96,200,48.0
+Frontend Developer,Figma (Basic),85,200,42.5
+Frontend Developer,Git,122,200,61.0
+Frontend Developer,Github,107,200,53.5
+Frontend Developer,HTML,127,200,63.5
+Frontend Developer,Javascript,133,200,66.5
+Frontend Developer,Npm Yarn,112,200,56.0
+Frontend Developer,Problem Solving,132,200,66.0
+Frontend Developer,React,119,200,59.5
+Frontend Developer,Responsive Design,117,200,58.5
+Frontend Developer,Rest Api,112,200,56.0
+Frontend Developer,Time Management,106,200,53.0
+Frontend Developer,Typescript,106,200,53.0
+Frontend Developer,Vs Code,120,200,60.0
+Frontend Developer,Vue.Js,98,200,49.0
+Frontend Developer,Web Performance,91,200,45.5
+Frontend Developer,Webpack,90,200,45.0
+UI/UX Designer,Accessibility,111,200,55.5
+UI/UX Designer,Adobe Illustrator,105,200,52.5
+UI/UX Designer,Adobe Xd,118,200,59.0
+UI/UX Designer,Collaboration,106,200,53.0
+UI/UX Designer,Communication,118,200,59.0
+UI/UX Designer,Creativity,114,200,57.0
+UI/UX Designer,Design Systems,108,200,54.0
+UI/UX Designer,Empathy,121,200,60.5
+UI/UX Designer,Figma,142,200,71.0
+UI/UX Designer,Information Architecture,124,200,62.0
+UI/UX Designer,Interaction Design,116,200,58.0
+UI/UX Designer,Invision,78,200,39.0
+UI/UX Designer,Maze,79,200,39.5
+UI/UX Designer,Miro,86,200,43.0
+UI/UX Designer,Prototyping,130,200,65.0
+UI/UX Designer,Sketch,95,200,47.5
+UI/UX Designer,Usability Testing,123,200,61.5
+UI/UX Designer,User Research,135,200,67.5
+UI/UX Designer,Visual Thinking,119,200,59.5
+UI/UX Designer,Wireframing,125,200,62.5

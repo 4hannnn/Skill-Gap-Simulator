@@ -1,0 +1,47 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.local
+.env.*.local
+!.env.example
+
+
+# Python cache & compiled files
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS temporary files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Project-specific Scraping Auth & Browser States
+.auth/
+chrome_user_data/
+
+# Log & temp files
+*.log
+task-*.log
+*.tmp
+
+# Project Plan folder
+Project Plan/
+

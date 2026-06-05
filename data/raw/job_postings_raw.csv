@@ -1,0 +1,628 @@
+job_id,job_title,company,job_location,role_category,job_level,job_type,first_seen,source
+JOB-00001,Analytics Analyst,Tokopedia,"Jakarta, Indonesia",Data Analyst,Associate,Freelance,2024-05-20,Kaggle-LinkedIn-Synthetic
+JOB-00002,Business Data Analyst,Gojek,"Yogyakarta, Indonesia",Data Analyst,Associate,Full-time,2024/12/12,Kaggle-LinkedIn-Synthetic
+JOB-00003,BI Analyst,OCBC,"Bandung, Indonesia",Data Analyst,,Part-time,2024-01-16,Kaggle-LinkedIn-Synthetic
+JOB-00004,Business Data Analyst,Bank Mandiri,"Sydney, Australia",Data Analyst,Associate,Full-time,2024-11-04,Kaggle-LinkedIn-Synthetic
+JOB-00005,Lead Data Analyst,Bukalapak,,Data Analyst,Director,Internship,2024/12/25,Kaggle-LinkedIn-Synthetic
+JOB-00006,Business Data Analyst,Standard Chartered,"Seoul, South Korea",Data Analyst,Mid-Senior level,Full-time,2024-05-22,Kaggle-LinkedIn-Synthetic
+JOB-00007,Senior Data Analyst,OCBC,"New York, NY",Data Analyst,Associate,Full-time,2024-05-22,Kaggle-LinkedIn-Synthetic
+JOB-00008,Business Data Analyst,IBM,"Yogyakarta, Indonesia",Data Analyst,Associate,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00009,Junior Data Analyst,Samsung,"Seattle, WA",Data Analyst,Director,Full time,2024-11-05,Kaggle-LinkedIn-Synthetic
+JOB-00010,Data Analyst,Flipkart,"Tokyo, Japan",Data Analyst,Associate,Freelance ,2024-03-04,Kaggle-LinkedIn-Synthetic
+JOB-00011,Junior Data Analyst,McKinsey,Hybrid - Jakarta,Data Analyst,Executive,Full-time,2024-11-12,Kaggle-LinkedIn-Synthetic
+JOB-00012,BI Analyst,Bukalapak,"Surabaya, Indonesia",DATA ANALYST,Mid-Senior level,Full-time,2024-01-24,Kaggle-LinkedIn-Synthetic
+JOB-00013,Marketing Data Analyst,Netflix,"Kuala Lumpur, Malaysia",Data Analyst,Mid-Senior level,Internship,2024/02/21,Kaggle-LinkedIn-Synthetic
+JOB-00014,Marketing Data Analyst,Flipkart,Hybrid - Jakarta,Data Analyst,Entry level,Full-time,2024-07-05,Kaggle-LinkedIn-Synthetic
+JOB-00015,Financial Data Analyst,Samsung,Singapore,Data Analyst,Associate,Full-time,2024-12-09,Kaggle-LinkedIn-Synthetic
+JOB-00016,Data Insights Analyst,Apple,Remote,Data Analyst,Mid-Senior level,Full-time,2024-11-21,Kaggle-LinkedIn-Synthetic
+JOB-00017,Lead Data Analyst,Telkom Indonesia,"Medan, Indonesia",Data Analyst,Entry level,Full-time,2024-08-24,Kaggle-LinkedIn-Synthetic
+JOB-00018,Marketing Data Analyst,Bank Mandiri,Hybrid - Singapore,Data Analyst,Director,Intern,2024-06-15,Kaggle-LinkedIn-Synthetic
+JOB-00019,Business Data Analyst,Amazon,"New York, NY", Data Analyst ,Mid-Senior level,Full-time,2024-07-24,Kaggle-LinkedIn-Synthetic
+JOB-00020,Junior Data Analyst,Bank BCA,"Seoul, South Korea",Data Analyst,Entry level,Full-time,2024/06/10,Kaggle-LinkedIn-Synthetic
+JOB-00021,Analytics Analyst,OVO,"Austin, TX",Data Analyst,Mid-Senior level,Contract,2024/11/25,Kaggle-LinkedIn-Synthetic
+JOB-00022,Senior Data Analyst,Astra International,remote,Data Analyst,Intern,Full-time,2024-05-06,Kaggle-LinkedIn-Synthetic
+,Data Insights Analyst,OCBC,, data analyst ,Seniorr,Internship,2024-07-23,Kaggle-LinkedIn-Synthetic
+JOB-00024,Business Data Analyst,Gojek,"Sydney, Australia",Data Analyst,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00025,Data Analyst,Tokopedia,"Bali, Indonesia",Data Analyst,Mid-Senior level,,,Kaggle-LinkedIn-Synthetic
+JOB-00026,Analytics Analyst,OCBC,Remote,Data Analyst,Associate,Internship,2024-02-02,Kaggle-LinkedIn-Synthetic
+JOB-00027,Data Analyst Intern,Flipkart,Hybrid- Singapore,Data Analyst,Entry level,Full-time,2024-05-08,Kaggle-LinkedIn-Synthetic
+JOB-00028,Analytics Analyst,Tokopedia,Hybrid - Singapore,Data Analyst,Mid-Senior level,Full-time,2024/10/01,Kaggle-LinkedIn-Synthetic
+JOB-00029,Analytics Analyst,IBM,"Yogyakarta, Indonesia",Data Analyst,Entry level,Full-time,2024-05-30,Kaggle-LinkedIn-Synthetic
+JOB-00030,Senior Data Analyst,Flipkart,"Jakarta, Indonesia",Data Analyst,Associate,,2024-05-14,Kaggle-LinkedIn-Synthetic
+JOB-00031,Lead Data Analyst,Spotify,Hybrid - Jakarta,Data Analyst,Executive,Internship,2024-06-01,Kaggle-LinkedIn-Synthetic
+JOB-00032,Senior Data Analyst,Unilever,,Data Analyst,Mid-Senior level,Contract,2024-10-03,Kaggle-LinkedIn-Synthetic
+JOB-00033,BI Analyst,Accenture,,Data Analyst,Entry level,Full-time,2024-01-10,Kaggle-LinkedIn-Synthetic
+JOB-00034,Financial Data Analyst,PwC,"Kuala Lumpur, Malaysia",Data Analyst,Director,Internship,2024/01/30,Kaggle-LinkedIn-Synthetic
+JOB-00035,BI Analyst,Netflix,"Surabaya, Indonesia",Data Analyst,Mid-Senior level,Full-time,2024/09/05,Kaggle-LinkedIn-Synthetic
+JOB-00036,Lead Data Analyst,Gojek,"Bali, Indonesia",Data Analyst,Mid-Senior level,Part-time,2024-12-03,Kaggle-LinkedIn-Synthetic
+JOB-00037,Lead Data Analyst,Grab,remote,Data Analyst,Director,,2024-09-27,Kaggle-LinkedIn-Synthetic
+JOB-00038,Business Data Analyst,Bukalapak,,Data Analyst,Associate,Intern,2024-07-23,Kaggle-LinkedIn-Synthetic
+JOB-00039,Associate Data Analyst,LinkAja,"Berlin, Germany",Data Analyst,Mid-Senior level,Full-time,2024-03-02,Kaggle-LinkedIn-Synthetic
+JOB-00040,Business Data Analyst,Apple,,Data Analyst,Associate,Full-time,2024-01-11,Kaggle-LinkedIn-Synthetic
+JOB-00041,BI Analyst,Bank Mandiri,"jakarta, indonesia",Data Analyst,Entry level,full-time,2024-02-06,Kaggle-LinkedIn-Synthetic
+JOB-00042,Business Data Analyst,Apple,"Bandung, Indonesia",Data Analyst,Executive,Part-time,2024-06-18,Kaggle-LinkedIn-Synthetic
+JOB-00043,Lead Data Analyst,Telkom Indonesia,"Bangkok, Thailand",DATA ANALYST,Executive,Full-time,2024-12-08,Kaggle-LinkedIn-Synthetic
+JOB-00044,Business Data Analyst,Gojek,"Seoul, South Korea",Data Analyst,Entry level,Part-time,2024-10-22,Kaggle-LinkedIn-Synthetic
+JOB-00045,Business Data Analyst,Lazada,"London, UK",Data Analyst,Associate,Full-time,2024-04-07,Kaggle-LinkedIn-Synthetic
+,Junior Data Analyst,OCBC," Bandung , Indonesia ",Data Analyst,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00047,Associate Data Analyst,Meta,,Data Analyst,Associate,Internship,2024-11-30,Kaggle-LinkedIn-Synthetic
+JOB-00048,Data Analyst,Coca-Cola,"New York, NY",Data Analyst,director,Full-time,2024-02-25,Kaggle-LinkedIn-Synthetic
+JOB-00049,Business Data Analyst,Bukalapak,"Tokyo, Japan",Data Analyst,Entry level,Full-time,2024-08-17,Kaggle-LinkedIn-Synthetic
+JOB-00050,Data Analyst Intern,Traveloka,"Bangkok, Thailand",Data Analyst,Director,Full-time,2024-08-24,Kaggle-LinkedIn-Synthetic
+JOB-00051,Junior Data Analyst,Standard Chartered,"Tokyo, Japan",Data Analyst,Director,Internship,2024-02-20,Kaggle-LinkedIn-Synthetic
+JOB-00052,Analytics Analyst,Google,"Surabaya, Indonesia",Data Analyst,Associate,Full-time,2024-05-01,Kaggle-LinkedIn-Synthetic
+JOB-00053,Data Analyst Intern,OVO,"Amsterdam, Netherlands",Data Analyst,Entry level,Full-time,2024-04-19,Kaggle-LinkedIn-Synthetic
+JOB-00054,Data Analyst,Grab,"Austin, TX",Data Analyst,Entry level,Internship,2024-01-02,Kaggle-LinkedIn-Synthetic
+JOB-00055,Marketing Data Analyst,Flipkart,"San Francisco, CA",Data Analyst,Associate,Full-time,2024-08-04,Kaggle-LinkedIn-Synthetic
+JOB-00056,Senior Data Analyst,Bukalapak,"San Francisco, CA",Data Analyst,Director,Full-time,2024-04-21,Kaggle-LinkedIn-Synthetic
+JOB-00057,BI Analyst,Meta,"New York, NY",Data Analyst,Associate,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00058,BI Analyst,Lazada,"Sydney, Australia",Data Analyst,Mid-Senior level,Full-time,2024-09-28,Kaggle-LinkedIn-Synthetic
+JOB-00059,Data Analyst,Dana,"Surabaya, Indonesia",Data Analyst,Executive,Full-time,2024-04-05,Kaggle-LinkedIn-Synthetic
+JOB-00060,BI Analyst,Apple,remote,Data Analyst,Entry level,Full-time,2024/04/30,Kaggle-LinkedIn-Synthetic
+JOB-00061,Junior Data Analyst,Telkom Indonesia,"Seoul, South Korea",Data Analyst,Associate,Full-time,2024-10-31,Kaggle-LinkedIn-Synthetic
+JOB-00062,BI Analyst,Netflix,"London, UK",Data Analyst,mid level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00063,Marketing Data Analyst,Bank BCA,Hybrid - Singapore,Data Analyst,Mid-Senior level,Full-time,2024-06-09,Kaggle-LinkedIn-Synthetic
+JOB-00064,Marketing Data Analyst,Coca-Cola,,Data Analyst,Mid-Senior level,Full-time,2024-12-09,Kaggle-LinkedIn-Synthetic
+JOB-00065,Associate Data Analyst,Accenture,"Surabaya, Indonesia",Data Analyst,Mid-Senior level,Full-time,2024-01-05,Kaggle-LinkedIn-Synthetic
+JOB-00066,BI Analyst,Spotify,"Surabaya, Indonesia",Data Analyst,Director,Full-time,2024-10-02,Kaggle-LinkedIn-Synthetic
+JOB-00067,Lead Data Analyst,Astra International,"Bali, Indonesia",Data Analyst,Entry level,Full-time,2024-06-27,Kaggle-LinkedIn-Synthetic
+JOB-00068,Business Data Analyst,Unilever,"San Francisco, CA",Data Analyst,Director,Contract,2024-03-21,Kaggle-LinkedIn-Synthetic
+JOB-00069,Lead Data Analyst,PwC,Remote,Data Analyst,entry-level,contract,2024-11-30,Kaggle-LinkedIn-Synthetic
+JOB-00070,Analytics Analyst,PwC,"Jakarta, ID",Data Analyst,Entry level,Full-time,2024-02-23,Kaggle-LinkedIn-Synthetic
+JOB-00071,Marketing Data Analyst,Tokopedia,"Yogyakarta, Indonesia",DATA ANALYST,Associate,Full-time,2024-10-10,Kaggle-LinkedIn-Synthetic
+JOB-00072,Marketing Data Analyst,McKinsey,Remote,Data Analyst,Mid-Senior level,Full-time,2024/04/17,Kaggle-LinkedIn-Synthetic
+JOB-00073,Business Data Analyst,Astra International,"Sydney, Australia",Data Analyst,Mid-Senior level,,2024-09-07,Kaggle-LinkedIn-Synthetic
+,Data Analyst,Netflix,Hybrid - Jakarta,Data Analyst,Associate,Part-time,2024-08-04,Kaggle-LinkedIn-Synthetic
+JOB-00075,Data Analyst,Google,"New York, NY",Data Analyst,Entry level,Contract,2024-03-07,Kaggle-LinkedIn-Synthetic
+JOB-00076,Senior Data Analyst,Standard Chartered,"Tokyo, Japan",Data Analyst,Entry level,Contract,2024-12-27,Kaggle-LinkedIn-Synthetic
+JOB-00077,Lead Data Analyst,Google,"Yogyakarta, Indonesia",Data Analyst,Associate,Freelance,2024-02-08,Kaggle-LinkedIn-Synthetic
+JOB-00078,Lead Data Analyst,Amazon,,Data Analyst,,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00079,Data Analyst Intern,Gojek,"Bandung, Indonesia",Data Analyst,Entry level,Full-time,2024-06-06,Kaggle-LinkedIn-Synthetic
+JOB-00080,Data Analyst,Samsung,Singapore,Data Analyst,Mid-Senior level,Contract,2024-12-15,Kaggle-LinkedIn-Synthetic
+JOB-00081,Analytics Analyst,Spotify,"Seattle, WA",Data Analyst,Mid-Senior level,Full time,2024-10-13,Kaggle-LinkedIn-Synthetic
+JOB-00082,BI Analyst,Shopee,"Kuala Lumpur, Malaysia",Data Analyst,Entry level,Internship,2024-03-24,Kaggle-LinkedIn-Synthetic
+JOB-00083,Data Analyst Intern,Microsoft,"Medan, Indonesia",Data Analyst,,Contract,2024-06-19,Kaggle-LinkedIn-Synthetic
+JOB-00084,Analytics Analyst,Telkom Indonesia,"Bangkok, Thailand",Data Analyst,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00085,Data Analyst Intern,Amazon,"Amsterdam, Netherlands",Data Analyst,Mid-Senior level,Contract,2024-04-23,Kaggle-LinkedIn-Synthetic
+JOB-00086,Associate Data Analyst,Samsung,"San Francisco, CA",Data Analyst,Entry level,Full-time,2024-04-26,Kaggle-LinkedIn-Synthetic
+JOB-00087,Data Analyst,Bukalapak,"Austin, TX",Data Analyst,Associate,Full-time,2024-06-17,Kaggle-LinkedIn-Synthetic
+JOB-00088,Junior Data Analyst,Deloitte,"Seattle, WA",Data Analyst,Associate,Full-time,2024-11-24,Kaggle-LinkedIn-Synthetic
+JOB-00089,Analytics Analyst,IBM,"Jakarta, Indonesia",Data Analyst,Associate,Contract,2024-02-29,Kaggle-LinkedIn-Synthetic
+JOB-00090,Senior Data Analyst,Astra International,"Bandung, Indonesia", Data Analyst ,Director,Full-time,2024-02-25,Kaggle-LinkedIn-Synthetic
+JOB-00091,Financial Data Analyst,Accenture,"London, UK",Data Analyst,,Internship,2024-11-06,Kaggle-LinkedIn-Synthetic
+JOB-00092,Data Analyst Intern,Bukalapak,"Bangkok, Thailand",Data Analyst,Mid-Senior level,Full-time,2024-01-23,Kaggle-LinkedIn-Synthetic
+JOB-00093,Data Analyst,LinkAja,"Tokyo, Japan",Data Analyst,Associate,Full-time,2024-12-17,Kaggle-LinkedIn-Synthetic
+JOB-00094,Financial Data Analyst,OCBC,"Surabaya, Indonesia",Data Analyst,Director,Full-time,2024-12-06,Kaggle-LinkedIn-Synthetic
+JOB-00095,BI Analyst,Accenture,,Data Analyst,Mid-Senior level,Full-time,2024-03-04,Kaggle-LinkedIn-Synthetic
+JOB-00096,Lead Data Analyst,PwC,Hybrid - Singapore,Data Analyst,Mid-Senior level,Internship,2024-07-28,Kaggle-LinkedIn-Synthetic
+JOB-00097,Data Analyst Intern,McKinsey,"Tokyo, Japan",Data Analyst,Mid-Senior level,Internship,2024-03-06,Kaggle-LinkedIn-Synthetic
+JOB-00098,Data Analyst Intern,P&G,Hybrid - Singapore,Data Analyst,Mid-Senior level,Full-time,2024-03-30,Kaggle-LinkedIn-Synthetic
+JOB-00099,Data Analyst Intern,Google,"San Francisco, CA",Data Analyst,Associate,Full-time,2024-05-26,Kaggle-LinkedIn-Synthetic
+JOB-00100,Data Analyst Intern,Accenture,"Berlin, Germany",Data Analyst,Intern,,,Kaggle-LinkedIn-Synthetic
+JOB-00101,Analytics Analyst,Bank BCA,,Data Analyst,Mid-Senior level,Full-time,2024-08-30,Kaggle-LinkedIn-Synthetic
+JOB-00102,Analytics Analyst,Netflix,"San Francisco, CA",Data Analyst,Entry level,Internship,2024-09-20,Kaggle-LinkedIn-Synthetic
+JOB-00103,Junior Data Analyst,Telkom Indonesia,Hybrid - Singapore,Data Analyst,Mid-Senior level,Contract,2024-06-07,Kaggle-LinkedIn-Synthetic
+JOB-00104,Business Data Analyst,Shopee,"Jakarta, Indonesia",Data Analyst,Intern,Part-time,2024-01-24,Kaggle-LinkedIn-Synthetic
+JOB-00105,Associate Data Analyst,Apple,"Berlin, Germany",DATA ANALYST,Associate,Full time,2024-07-31,Kaggle-LinkedIn-Synthetic
+JOB-00106,Data Insights Analyst,P&G,"Amsterdam, Netherlands",Data Analyst,Executive,Contractor,2024-07-23,Kaggle-LinkedIn-Synthetic
+JOB-00107,Senior Data Analyst,Google,"Yogyakarta, Indonesia",Data Analyst,Associate,Full-time,2024-08-05,Kaggle-LinkedIn-Synthetic
+JOB-00108,Senior Data Analyst,LinkAja,"Berlin, Germany",Data Analyst,,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00109,Junior Data Analyst,Flipkart,"Bali, Indonesia",Data Analyst,Associate,Part time,2024-08-25,Kaggle-LinkedIn-Synthetic
+JOB-00110,Associate Data Analyst,Dana,"London, UK",Data Analyst,Mid-Senior level,Contract,2024-10-07,Kaggle-LinkedIn-Synthetic
+JOB-00111,Senior Data Analyst,Lazada,"Berlin, Germany",Data Analyst,mid level,,2024-05-12,Kaggle-LinkedIn-Synthetic
+JOB-00112,Analytics Analyst,Deloitte,"Sydney, Australia",Data Analyst,Mid-Senior level,,2024-09-05,Kaggle-LinkedIn-Synthetic
+JOB-00113,Marketing Data Analyst,Standard Chartered,"Surabaya, Indonesia",Data Analyst,Director,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00114,Marketing Data Analyst,IBM,"New York, NY",Data Analyst,Mid-Senior level,Internship,2024-10-03,Kaggle-LinkedIn-Synthetic
+,Senior Data Analyst,Shopee,"Kuala Lumpur, Malaysia",Data Analyst,Director,Full-time,2024-07-15,Kaggle-LinkedIn-Synthetic
+JOB-00116,Data Insights Analyst,Bank BCA,HYBRID - JAKARTA, data analyst ,Mid-Senior level,Internship,2024-07-31,Kaggle-LinkedIn-Synthetic
+JOB-00117,Financial Data Analyst,Flipkart,"London, UK",Data Analyst,Entry level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00118,Data Analyst Intern,P&G,"Seoul, South Korea",Data Analyst,Associate ,Full-time,2024-12-22,Kaggle-LinkedIn-Synthetic
+JOB-00119,BI Analyst,P&G,"Amsterdam, Netherlands",Data Analyst,Mid-Senior level,Full-time,2024-01-04,Kaggle-LinkedIn-Synthetic
+JOB-00120,Marketing Data Analyst,P&G,"London, UK",Data Analyst,Associate,Full-time,2024-10-02,Kaggle-LinkedIn-Synthetic
+JOB-00121,Associate Data Analyst,Bank Mandiri,"Bangkok, Thailand",Data Analyst,Mid-Senior level,n/a,2024-08-11,Kaggle-LinkedIn-Synthetic
+JOB-00122,Data Analyst,P&G,"New York, NY",Data Analyst,Associate,,2024-12-08,Kaggle-LinkedIn-Synthetic
+JOB-00123,Data Insights Analyst,Grab,"Berlin, Germany",data analyst,Entry level,Intern,2024/03/06,Kaggle-LinkedIn-Synthetic
+JOB-00124,Data Analyst Intern,Microsoft,"Surabaya, Indonesia",Data Analyst,Entry level,Contract,2024-11-25,Kaggle-LinkedIn-Synthetic
+JOB-00125,Senior Data Analyst,Flipkart,"Medan, Indonesia",Data Analyst,Entry level,Full-time,2024-01-26,Kaggle-LinkedIn-Synthetic
+JOB-00126,Data Analyst Intern,Accenture,Singapore,Data Analyst,Mid-Senior level,,,Kaggle-LinkedIn-Synthetic
+JOB-00127,Financial Data Analyst,P&G," Bandung , Indonesia ",Data Analyst,Mid-Senior level,Full-time,2024-08-03,Kaggle-LinkedIn-Synthetic
+JOB-00128,Junior Data Analyst,Lazada,,DATA ANALYST,Mid-Senior level,Full-time,2024-10-03,Kaggle-LinkedIn-Synthetic
+JOB-00129,Financial Data Analyst,Bank Mandiri,Hybrid - Jakarta,Data Analyst,Director,Internship,2024-02-05,Kaggle-LinkedIn-Synthetic
+JOB-00130,Data Analyst,Telkom Indonesia,Singapore,Data Analyst,Entry level,Internship,2024-01-11,Kaggle-LinkedIn-Synthetic
+JOB-00131,Business Data Analyst,Gojek,"Amsterdam, Netherlands", Data Analyst ,Mid-Senior level,Full-time,2024-12-08,Kaggle-LinkedIn-Synthetic
+JOB-00132,BI Analyst,Bank BCA,"Berlin, Germany", Data Analyst ,,Full-time,2024-12-24,Kaggle-LinkedIn-Synthetic
+JOB-00133,Financial Data Analyst,Grab,Remote,Data Analyst,Mid-Senior level,Full-time,2024-11-06,Kaggle-LinkedIn-Synthetic
+JOB-00134,Senior Data Analyst,PwC,"Yogyakarta, Indonesia",Data Analyst,Associate,Part-time,2024-10-23,Kaggle-LinkedIn-Synthetic
+JOB-00135,Marketing Data Analyst,P&G,"Austin, TX",Data Analyst,,full-time,2024-04-11,Kaggle-LinkedIn-Synthetic
+JOB-00136,BI Analyst,Telkom Indonesia,"Yogyakarta, Indonesia",Data Analyst,Associate,Part time,2024/12/22,Kaggle-LinkedIn-Synthetic
+JOB-00137,Analytics Analyst,Tokopedia,,Data Analyst,n/a,Internship,2024-01-22,Kaggle-LinkedIn-Synthetic
+JOB-00138,Lead Data Analyst,OCBC,Hybrid - Singapore,Data Analyst,Entry level,Full-time,2024-07-08,Kaggle-LinkedIn-Synthetic
+JOB-00139,Lead Data Analyst,IBM,"Jakarta, Indonesia",Data Analyst,Entry level,contract,2024-08-03,Kaggle-LinkedIn-Synthetic
+JOB-00140,Junior Data Analyst,OCBC,"Seattle, WA",Data Analyst,Associate,,2024-11-21,Kaggle-LinkedIn-Synthetic
+JOB-00141,Data Insights Analyst,Shopee,,Data Analyst,Seniorr,Part-time,2024-03-31,Kaggle-LinkedIn-Synthetic
+JOB-00142,BI Analyst,Lazada,"Berlin, Germany",Data Analyst,Mid-Senior level,Full-time,2024-08-11,Kaggle-LinkedIn-Synthetic
+JOB-00143,Financial Data Analyst,Telkom Indonesia,"Surabaya, Indonesia",Data Analyst,Associate ,Internship,,Kaggle-LinkedIn-Synthetic
+JOB-00144,Business Data Analyst,Flipkart,"Seoul, South Korea",Data Analyst,Entry level,Contract,,Kaggle-LinkedIn-Synthetic
+JOB-00145,Financial Data Analyst,Microsoft,"Amsterdam, Netherlands",Data Analyst,Entry level,Full-time,2024-06-15,Kaggle-LinkedIn-Synthetic
+JOB-00146,Associate Data Analyst,Bank BCA,"Seattle, WA",Data Analyst,Mid-Senior level,,2024-05-12,Kaggle-LinkedIn-Synthetic
+JOB-00147,Marketing Data Analyst,Deloitte,"Tokyo, Japan",Data Analyst,Mid-Senior level,Full-time,2024-01-06,Kaggle-LinkedIn-Synthetic
+JOB-00148,Junior Data Analyst,Telkom Indonesia,"London, UK",Data Analyst,Entry level,Full-time,2024-09-07,Kaggle-LinkedIn-Synthetic
+JOB-00149,Data Insights Analyst,Lazada,Hybrid- Singapore,Data Analyst,mid level,contract,,Kaggle-LinkedIn-Synthetic
+JOB-00150,Associate Data Analyst,Microsoft,"Surabaya, Indonesia",Data Analyst,Associate,Full-time,2024-05-30,Kaggle-LinkedIn-Synthetic
+JOB-00151,Data Analyst Intern,Telkom Indonesia,,Data Analyst,Associate,Full-time,2024-12-05,Kaggle-LinkedIn-Synthetic
+JOB-00152,Associate Data Analyst,LinkAja,,Data Analyst,Associate,Full-time,2024-08-05,Kaggle-LinkedIn-Synthetic
+JOB-00153,Financial Data Analyst,Flipkart,"Bangkok, Thailand",Data Analyst,Associate,Internship,2024-06-05,Kaggle-LinkedIn-Synthetic
+JOB-00154,Business Data Analyst,Tokopedia,Singapore,Data Analyst,Associate,Internship,2024-06-10,Kaggle-LinkedIn-Synthetic
+JOB-00155,Data Insights Analyst,Traveloka,Singapore,Data Analyst,Mid-Senior level,Contract,2024-04-20,Kaggle-LinkedIn-Synthetic
+JOB-00156,Marketing Data Analyst,LinkAja,Remote,Data Analyst,Mid-Senior level,Full-time,2024-05-24,Kaggle-LinkedIn-Synthetic
+JOB-00157,Business Data Analyst,McKinsey,,Data Analyst,Entry level,Freelance,2024-07-03,Kaggle-LinkedIn-Synthetic
+JOB-00158,Marketing Data Analyst,Google,"Tokyo, Japan", Data Analyst ,Mid-Senior level,Full-time,2024/03/05,Kaggle-LinkedIn-Synthetic
+JOB-00159,Data Analyst,Meta,"Tokyo, Japan",Data Analyst,Mid-Senior level,Full-time,2024-05-29,Kaggle-LinkedIn-Synthetic
+JOB-00160,Analytics Analyst,OVO,"Yogyakarta, Indonesia",Data Analyst,Director,Full-time,2024-01-07,Kaggle-LinkedIn-Synthetic
+,Associate Data Analyst,Lazada,"Jakarta, ID",Data Analyst,Associate,Full-time,2024-06-23,Kaggle-LinkedIn-Synthetic
+JOB-00162,Data Analyst,Astra International,"jakarta, indonesia",Data Analyst,Mid-Senior level,Full-time,2024-02-28,Kaggle-LinkedIn-Synthetic
+JOB-00163,Data Analyst Intern,OVO,"Surabaya, Indonesia",Data Analyst,Mid-Senior level,Full-time,2024-10-22,Kaggle-LinkedIn-Synthetic
+JOB-00164,Senior Data Analyst,Shopee,"Seoul, South Korea",Data Analyst,Entry level,Full-time,2024-06-04,Kaggle-LinkedIn-Synthetic
+JOB-00165,Business Data Analyst,Tokopedia,"Tokyo, Japan",Data Analyst,Associate,n/a,2024-08-01,Kaggle-LinkedIn-Synthetic
+JOB-00166,Lead Data Analyst,P&G,"Berlin, Germany",Data Analyst,,Full-time,2024-08-14,Kaggle-LinkedIn-Synthetic
+JOB-00167,BI Analyst,OCBC,"San Francisco, CA",Data Analyst,Associate,Full-time,2024/10/18,Kaggle-LinkedIn-Synthetic
+JOB-00168,BI Analyst,Spotify,Singapore,Data Analyst,Executive,,2024-11-16,Kaggle-LinkedIn-Synthetic
+JOB-00169,Marketing Data Analyst,Netflix,"Medan, Indonesia",Data Analyst,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00170,Lead Data Analyst,Apple,,Data Analyst,Entry level,Freelance,2024-01-02,Kaggle-LinkedIn-Synthetic
+JOB-00171,Associate Data Analyst,Lazada,"San Francisco, CA",Data Analyst,Director,Full-time,2024-01-17,Kaggle-LinkedIn-Synthetic
+JOB-00172,Marketing Data Analyst,McKinsey,"Berlin, Germany",Data Analyst,Mid-Senior level,Internship,2024-02-06,Kaggle-LinkedIn-Synthetic
+JOB-00173,Marketing Data Analyst,Bukalapak,"London, UK",Data Analyst,Mid-Senior level,Contract,2024-02-28,Kaggle-LinkedIn-Synthetic
+JOB-00174,Analytics Analyst,Shopee,"Bangkok, Thailand",Data Analyst,Entry level,Full-time,2024-03-13,Kaggle-LinkedIn-Synthetic
+JOB-00175,Data Analyst,Grab,"San Francisco, CA",Data Analyst,Associate,Contract,2024-10-31,Kaggle-LinkedIn-Synthetic
+,Associate Data Analyst,Tokopedia,"Berlin, Germany",Data Analyst,Director,full-time,2024-12-18,Kaggle-LinkedIn-Synthetic
+JOB-00177,Data Insights Analyst,Coca-Cola,"Bangkok, Thailand",Data Analyst,,Full-time,2024-09-13,Kaggle-LinkedIn-Synthetic
+JOB-00178,Associate Data Analyst,Netflix,Remote,Data Analyst,Entry level,Full-time,2024-01-21,Kaggle-LinkedIn-Synthetic
+JOB-00179,Data Insights Analyst,Accenture,Remote,Data Analyst,Mid-Senior level,Full-time,2024-05-08,Kaggle-LinkedIn-Synthetic
+JOB-00180,Junior Data Analyst,Bank Mandiri,Hybrid - Singapore,Data Analyst,Entry level,Full-time,2024-10-21,Kaggle-LinkedIn-Synthetic
+JOB-00181,Analytics Analyst,Deloitte,"Seoul, South Korea",Data Analyst,Mid-Senior level,Contract,2024-01-21,Kaggle-LinkedIn-Synthetic
+JOB-00182,Associate Data Analyst,LinkAja,Hybrid - Jakarta,Data Analyst,Mid-Senior level,Full-time,2024-08-14,Kaggle-LinkedIn-Synthetic
+JOB-00183,Senior Data Analyst,OCBC,Hybrid - Jakarta,Data Analyst,Entry level,Internship,2024-09-08,Kaggle-LinkedIn-Synthetic
+JOB-00184,Associate Data Analyst,Samsung,remote,Data Analyst,entry-level,Part time,2024-06-19,Kaggle-LinkedIn-Synthetic
+JOB-00185,Analytics Analyst,Spotify,"Medan, Indonesia",Data Analyst,Mid-Senior level,Full-time,2024-06-17,Kaggle-LinkedIn-Synthetic
+JOB-00186,Data Insights Analyst,OVO,"San Francisco, CA",Data Analyst,Associate,Contract,2024/12/05,Kaggle-LinkedIn-Synthetic
+JOB-00187,Lead Data Analyst,Amazon,"Berlin, Germany",Data Analyst,Executive,Part-time,2024-02-15,Kaggle-LinkedIn-Synthetic
+JOB-00188,Marketing Data Analyst,Accenture,"Yogyakarta, Indonesia",Data Analyst,Director,Internship,2024-07-25,Kaggle-LinkedIn-Synthetic
+JOB-00189,Analytics Analyst,Flipkart,"Jakarta, ID",Data Analyst,Mid-Senior level,Full-time,2024-01-28,Kaggle-LinkedIn-Synthetic
+JOB-00190,Lead Data Analyst,Unilever,Remote,Data Analyst,Entry level,Contract,2024-09-12,Kaggle-LinkedIn-Synthetic
+JOB-00191,Data Analyst,Bank BCA,"Bangkok, Thailand",Data Analyst,Entry level,Full-time,2024-10-08,Kaggle-LinkedIn-Synthetic
+JOB-00192,Marketing Data Analyst,Standard Chartered,,Data Analyst,,Full-time,2024/03/03,Kaggle-LinkedIn-Synthetic
+,Analytics Analyst,Telkom Indonesia,"Medan, Indonesia",Data Analyst,Associate ,Full-time,2024-06-08,Kaggle-LinkedIn-Synthetic
+JOB-00194,Lead Data Analyst,DBS Bank,"Surabaya, Indonesia",Data Analyst,Associate,Full-time,2024-04-25,Kaggle-LinkedIn-Synthetic
+JOB-00195,Associate Data Analyst,Tokopedia,Hybrid - Jakarta,Data Analyst,Entry level,Full-time,2024-03-19,Kaggle-LinkedIn-Synthetic
+JOB-00196,Data Insights Analyst,McKinsey,"Sydney, Australia",Data Analyst,Director,Internship,2024-12-27,Kaggle-LinkedIn-Synthetic
+JOB-00197,Data Analyst Intern,Lazada,"Amsterdam, Netherlands",Data Analyst,Mid-Senior level,Full-time,2024-05-04,Kaggle-LinkedIn-Synthetic
+JOB-00198,Lead Data Analyst,Shopee,"Austin, TX",Data Analyst,Associate,n/a,,Kaggle-LinkedIn-Synthetic
+JOB-00199,Junior Data Analyst,Deloitte," Bandung , Indonesia ",Data Analyst,Director,Part-time,2024/06/23,Kaggle-LinkedIn-Synthetic
+JOB-00200,Data Analyst,McKinsey,"San Francisco, CA",Data Analyst,Entry level,Full-time,2024-10-27,Kaggle-LinkedIn-Synthetic
+JOB-00201,Senior Frontend Developer,ThoughtWorks,"Tokyo, Japan",Frontend Developer,Mid-Senior level,Internship,2024-09-04,Kaggle-LinkedIn-Synthetic
+JOB-00202,Vue.js Developer,Notion,"Berlin, Germany",Frontend Developer,Associate,Full-time,2024/06/13,Kaggle-LinkedIn-Synthetic
+JOB-00203,Full Stack Developer (Frontend Focus),Zenius,"Jakarta, ID",Frontend Developer,Mid-Senior level,,2024-07-15,Kaggle-LinkedIn-Synthetic
+JOB-00204,Frontend Developer Intern,Meta,"New York, NY",Frontend Developer,,Full-time,2024/08/30,Kaggle-LinkedIn-Synthetic
+JOB-00205,Frontend Developer Intern,Grab,"Amsterdam, Netherlands",Frontend Developer,Mid-Senior level,Full-time,2024-01-19,Kaggle-LinkedIn-Synthetic
+JOB-00206,UI Developer,Figma Inc.,"Yogyakarta, Indonesia",Frontend Developer,Associate,Contract,2024-08-13,Kaggle-LinkedIn-Synthetic
+,UI Developer,Agoda,"Jakarta, Indonesia",Frontend Developer,Entry level,,2024-03-14,Kaggle-LinkedIn-Synthetic
+,JavaScript Developer,Grab,"Surabaya, Indonesia",Frontend Developer,Director,Freelance,2024-08-28,Kaggle-LinkedIn-Synthetic
+JOB-00209,Vue.js Developer,Canva,,Frontend Developer,Mid-Senior level,Full-time,2024-02-11,Kaggle-LinkedIn-Synthetic
+JOB-00210,JavaScript Developer,Notion,"New York, NY",FRONTEND DEVELOPER,Associate,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00211,UI Developer,Meta,Remote,Frontend Developer,executive ,Full-time,2024-02-05,Kaggle-LinkedIn-Synthetic
+JOB-00212,JavaScript Developer,Spotify,"Kuala Lumpur, Malaysia",Frontend Developer,n/a,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00213,Junior Frontend Developer,Tokopedia,"Berlin, Germany",Frontend Developer,Mid-Senior level,Freelance,2024-03-26,Kaggle-LinkedIn-Synthetic
+JOB-00214,Frontend Developer,Meta,"New York, NY",Frontend Developer,Entry level,n/a,2024-01-29,Kaggle-LinkedIn-Synthetic
+JOB-00215,Vue.js Developer,GitLab,"London, UK",Frontend Developer,Entry level,Full-time,2024-03-15,Kaggle-LinkedIn-Synthetic
+JOB-00216,UI Developer,Wise,"Seoul, South Korea",Frontend Developer,Mid-Senior level,Full-time,2024-12-15,Kaggle-LinkedIn-Synthetic
+JOB-00217,Senior Frontend Developer,Bukalapak,"Surabaya, Indonesia",Frontend Developer,Mid-Senior level,n/a,2024-11-08,Kaggle-LinkedIn-Synthetic
+JOB-00218,Web Developer,Zenius,"Amsterdam, Netherlands",Frontend Developer,Entry level,Full-time,2024-10-25,Kaggle-LinkedIn-Synthetic
+JOB-00219,Frontend Engineer,Agoda,Hybrid - Jakarta, FRONTEND DEVELOPER ,,Full-time,2024-05-10,Kaggle-LinkedIn-Synthetic
+JOB-00220,React Developer,Google,"Berlin, Germany",Frontend Developer,Associate,Full-time,2024-05-27,Kaggle-LinkedIn-Synthetic
+JOB-00221,Junior Frontend Developer,ThoughtWorks,"Seattle, WA",Frontend Developer,Entry level,Full-time,2024-10-27,Kaggle-LinkedIn-Synthetic
+JOB-00222,JavaScript Developer,Accenture,"Bangkok, Thailand",Frontend Developer,Associate,Part-time,2024-08-21,Kaggle-LinkedIn-Synthetic
+JOB-00223,Frontend Engineer,Notion,"Amsterdam, Netherlands",Frontend Developer,Associate,Full-time,2024-02-24,Kaggle-LinkedIn-Synthetic
+JOB-00224,Frontend Developer Intern,Atlassian,"Seoul, South Korea",Frontend Developer,Mid-Senior level,Full-time,2024-05-31,Kaggle-LinkedIn-Synthetic
+JOB-00225,Frontend Developer,Canva,,Frontend Developer,Associate,Freelance,2024/01/05,Kaggle-LinkedIn-Synthetic
+JOB-00226,Web Developer,ByteDance,"jakarta, indonesia",Frontend Developer,Associate,Full-time,2024-04-27,Kaggle-LinkedIn-Synthetic
+JOB-00227,Frontend Engineer,Tiket.com,Remote,Frontend Developer,Mid-Senior level,Contract,2024/05/08,Kaggle-LinkedIn-Synthetic
+JOB-00228,JavaScript Developer,Tokopedia,HYBRID - JAKARTA, FRONTEND DEVELOPER ,mid level,Contract,2024-11-26,Kaggle-LinkedIn-Synthetic
+,React Developer,ThoughtWorks,"Bandung, Indonesia",Frontend Developer,Associate,,2024-10-23,Kaggle-LinkedIn-Synthetic
+JOB-00230,Full Stack Developer (Frontend Focus),Shopee,"Surabaya, Indonesia", Frontend Developer ,Director,Full-time,2024-05-31,Kaggle-LinkedIn-Synthetic
+JOB-00231,Full Stack Developer (Frontend Focus),Wise,"Medan, Indonesia",Frontend Developer,Entry level,Full-time,2024-04-12,Kaggle-LinkedIn-Synthetic
+JOB-00232,UI Developer,GitLab,"Sydney, Australia",Frontend Developer,Mid-Senior level,Full-time,2024/09/13,Kaggle-LinkedIn-Synthetic
+JOB-00233,Senior Frontend Developer,Kitabisa,"Amsterdam, Netherlands",Frontend Developer,Associate,Internship,,Kaggle-LinkedIn-Synthetic
+JOB-00234,Junior Frontend Developer,Agoda,"Surabaya, Indonesia",Frontend Developer,Mid-Senior level,Full-time,2024-03-13,Kaggle-LinkedIn-Synthetic
+JOB-00235,JavaScript Developer,Canva,"Tokyo, Japan",Frontend Developer,Entry level,Full-time,2024-07-06,Kaggle-LinkedIn-Synthetic
+JOB-00236,Frontend Developer Intern,Google,"Bangkok, Thailand",Frontend Developer,Director,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00237,Lead Frontend Developer,GitLab,Hybrid - Singapore,Frontend Developer,Mid-Senior level,Full-time,2024-12-10,Kaggle-LinkedIn-Synthetic
+JOB-00238,Web Developer,Notion,Hybrid - Jakarta,Frontend Developer,,Full-time,2024-07-09,Kaggle-LinkedIn-Synthetic
+JOB-00239,JavaScript Developer,Ruangguru,"Amsterdam, Netherlands",Frontend Developer,Associate,Contract,2024/01/13,Kaggle-LinkedIn-Synthetic
+,Web Developer,Ruangguru,Hybrid - Jakarta,Frontend Developer,Entry level,Full-time,2024-02-02,Kaggle-LinkedIn-Synthetic
+JOB-00241,Full Stack Developer (Frontend Focus),Airbnb,,Frontend Developer,Entry level,Full-time,2024-07-28,Kaggle-LinkedIn-Synthetic
+,Senior Frontend Developer,Meta,"Bandung, Indonesia",Frontend Developer,Associate,n/a,,Kaggle-LinkedIn-Synthetic
+JOB-00243,Junior Frontend Developer,Tokopedia,"Kuala Lumpur, Malaysia",Frontend Developer,,Full-time,2024-10-02,Kaggle-LinkedIn-Synthetic
+JOB-00244,Frontend Developer Intern,Agoda,"Seattle, WA",Frontend Developer,Mid-Senior level,Full-time,2024/12/09,Kaggle-LinkedIn-Synthetic
+JOB-00245,Web Developer,Grab,"London, UK",Frontend Developer,Mid-Senior level,,2024-12-01,Kaggle-LinkedIn-Synthetic
+JOB-00246,Lead Frontend Developer,Wise,"Bangkok, Thailand",Frontend Developer,Mid-Senior level,Full-time,2024-01-17,Kaggle-LinkedIn-Synthetic
+JOB-00247,Frontend Engineer,ThoughtWorks,remote,Frontend Developer,Mid-Senior level,Full-time,2024/04/30,Kaggle-LinkedIn-Synthetic
+JOB-00248,Junior Frontend Developer,GitLab," Bandung , Indonesia ",Frontend Developer,mid level,Full-time,2024-11-26,Kaggle-LinkedIn-Synthetic
+JOB-00249,Frontend Developer,Canva,"Bangkok, Thailand",Frontend Developer,n/a,Part-time,2024-04-07,Kaggle-LinkedIn-Synthetic
+JOB-00250,Lead Frontend Developer,Vercel,Hybrid - Singapore,Frontend Developer,Associate,Intern,2024-04-18,Kaggle-LinkedIn-Synthetic
+JOB-00251,Frontend Developer,Figma Inc.,"Kuala Lumpur, Malaysia",Frontend Developer,Associate,Contract,2024-03-05,Kaggle-LinkedIn-Synthetic
+JOB-00252,Junior Frontend Developer,Blibli,"Seoul, South Korea",Frontend Developer,Mid-Senior level,Full-time,2024-04-20,Kaggle-LinkedIn-Synthetic
+JOB-00253,Vue.js Developer,Grab,Remote,Frontend Developer,Entry level,Full-time,2024-01-02,Kaggle-LinkedIn-Synthetic
+JOB-00254,Senior Frontend Developer,Shopee,"Tokyo, Japan",Frontend Developer,Entry level,Full-time,2024-05-08,Kaggle-LinkedIn-Synthetic
+JOB-00255,Junior Frontend Developer,Microsoft,remote,Frontend Developer,Associate,Full-time,2024-01-08,Kaggle-LinkedIn-Synthetic
+JOB-00256,Frontend Engineer,Stripe,"Jakarta, Indonesia",Frontend Developer,Associate,Part-time,2024-03-30,Kaggle-LinkedIn-Synthetic
+JOB-00257,Frontend Developer,Shopee,"London, UK",Frontend Developer,Entry level,Full-time,2024-09-26,Kaggle-LinkedIn-Synthetic
+JOB-00258,Full Stack Developer (Frontend Focus),GitHub,"Amsterdam, Netherlands", frontend developer ,Associate,Full-time,2024-08-17,Kaggle-LinkedIn-Synthetic
+JOB-00259,UI Developer,Tokopedia,"Berlin, Germany",Frontend Developer,Executive,Full-time,2024/09/14,Kaggle-LinkedIn-Synthetic
+JOB-00260,Web Developer,Meta,Hybrid - Singapore,Frontend Developer,Associate,Part-time,2024-09-23,Kaggle-LinkedIn-Synthetic
+JOB-00261,Lead Frontend Developer,Microsoft,"Bandung, Indonesia",Frontend Developer,Entry level,Full-time,2024-09-02,Kaggle-LinkedIn-Synthetic
+JOB-00262,Frontend Developer Intern,Tokopedia,"Amsterdam, Netherlands",Frontend Developer,Mid-Senior level,Full-time,2024/12/30,Kaggle-LinkedIn-Synthetic
+JOB-00263,Junior Frontend Developer,Vercel,"New York, NY",Frontend Developer,Director,Contract,2024-11-07,Kaggle-LinkedIn-Synthetic
+JOB-00264,Junior Frontend Developer,Shopee,"Bangkok, Thailand",Frontend Developer,Entry level,Full-time,2024-11-15,Kaggle-LinkedIn-Synthetic
+JOB-00265,Frontend Developer Intern,Spotify,"Berlin, Germany",Frontend Developer,Associate,contract,2024-09-15,Kaggle-LinkedIn-Synthetic
+JOB-00266,Junior Frontend Developer,Gojek,,Frontend Developer,,Full-time,2024-11-29,Kaggle-LinkedIn-Synthetic
+JOB-00267,Frontend Developer Intern,ThoughtWorks,"Kuala Lumpur, Malaysia",Frontend Developer,Associate,Part-time,2024-07-30,Kaggle-LinkedIn-Synthetic
+JOB-00268,Lead Frontend Developer,Canva,remote,Frontend Developer,Associate,Full-time,2024-02-18,Kaggle-LinkedIn-Synthetic
+JOB-00269,Frontend Developer Intern,Stripe,,Frontend Developer,Entry level,,2024-05-10,Kaggle-LinkedIn-Synthetic
+JOB-00270,Senior Frontend Developer,Sea Group,"Surabaya, Indonesia",Frontend Developer,Associate,Freelance,2024-02-16,Kaggle-LinkedIn-Synthetic
+JOB-00271,Junior Frontend Developer,Accenture,"Yogyakarta, Indonesia",Frontend Developer,Mid-Senior level,Full-time,2024-07-09,Kaggle-LinkedIn-Synthetic
+JOB-00272,UI Developer,Twitter/X,Hybrid- Singapore,Frontend Developer,Mid-Senior level,Full-time,2024-10-14,Kaggle-LinkedIn-Synthetic
+JOB-00273,JavaScript Developer,Gojek,"London, UK",Frontend Developer,Mid-Senior level,Contract,2024-06-30,Kaggle-LinkedIn-Synthetic
+JOB-00274,Full Stack Developer (Frontend Focus),Twitter/X,"San Francisco, CA",Frontend Developer,Intern,Internship,2024-11-03,Kaggle-LinkedIn-Synthetic
+,Vue.js Developer,Tokopedia,"Seoul, South Korea",Frontend Developer,Entry level,Full-time,2024-09-16,Kaggle-LinkedIn-Synthetic
+JOB-00276,Senior Frontend Developer,Sea Group,"Kuala Lumpur, Malaysia",Frontend Developer,Mid-Senior level,Contract,2024-02-25,Kaggle-LinkedIn-Synthetic
+JOB-00277,UI Developer,GitLab,"Yogyakarta, Indonesia",Frontend Developer,Director,n/a,2024-05-22,Kaggle-LinkedIn-Synthetic
+JOB-00278,Frontend Developer Intern,Microsoft,Remote,Frontend Developer,Director,Full-time,2024-12-02,Kaggle-LinkedIn-Synthetic
+JOB-00279,Frontend Developer,Bukalapak,"Bangkok, Thailand",Frontend Developer,Mid-Senior level,Full-time,2024-12-25,Kaggle-LinkedIn-Synthetic
+JOB-00280,Vue.js Developer,Atlassian,"Jakarta, Indonesia",Frontend Developer,Associate,Full-time,2024-04-02,Kaggle-LinkedIn-Synthetic
+JOB-00281,Web Developer,Canva,"Surabaya, Indonesia",Frontend Developer,Associate,Part-time,2024-03-13,Kaggle-LinkedIn-Synthetic
+JOB-00282,Junior Frontend Developer,Blibli,,Frontend Developer,Mid-Senior level,,2024-08-02,Kaggle-LinkedIn-Synthetic
+JOB-00283,Vue.js Developer,Traveloka,"Seattle, WA",Frontend Developer,,Part-time,2024-06-08,Kaggle-LinkedIn-Synthetic
+JOB-00284,Web Developer,Vercel,"Bandung, Indonesia",Frontend Developer,Entry level,Internship,2024-03-20,Kaggle-LinkedIn-Synthetic
+,Web Developer,Twitter/X,Hybrid - Singapore,Frontend Developer,Director,Full-time,2024-02-11,Kaggle-LinkedIn-Synthetic
+JOB-00286,Lead Frontend Developer,Accenture,"Amsterdam, Netherlands",Frontend Developer,Associate,Full-time,2024-11-06,Kaggle-LinkedIn-Synthetic
+JOB-00287,Frontend Developer Intern,Netflix,remote, FRONTEND DEVELOPER ,director,,2024-09-19,Kaggle-LinkedIn-Synthetic
+JOB-00288,Vue.js Developer,Accenture,"Yogyakarta, Indonesia",Frontend Developer,Entry level,Full-time,2024-05-25,Kaggle-LinkedIn-Synthetic
+JOB-00289,UI Developer,Airbnb,"Jakarta, ID",Frontend Developer,Executive,Internship,2024-04-22,Kaggle-LinkedIn-Synthetic
+JOB-00290,Web Developer,Twitter/X,"Jakarta, Indonesia",Frontend Developer,entry-level,Full-time,2024-04-14,Kaggle-LinkedIn-Synthetic
+JOB-00291,Frontend Engineer,Shopee,"Bangkok, Thailand",Frontend Developer,Executive,Full-time,2024-05-28,Kaggle-LinkedIn-Synthetic
+JOB-00292,Junior Frontend Developer,Google,"Amsterdam, Netherlands",Frontend Developer,Mid-Senior level,Full-time,2024/08/08,Kaggle-LinkedIn-Synthetic
+JOB-00293,Senior Frontend Developer,Notion,"Tokyo, Japan",Frontend Developer,Associate,Freelance,2024-12-26,Kaggle-LinkedIn-Synthetic
+JOB-00294,UI Developer,Atlassian,"Surabaya, Indonesia",Frontend Developer,Entry level,Full-time,2024-07-22,Kaggle-LinkedIn-Synthetic
+JOB-00295,Frontend Developer Intern,Microsoft,"Berlin, Germany",Frontend Developer,Associate,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00296,Web Developer,Accenture,"Seoul, South Korea",Frontend Developer,Entry level,Internship,2024-07-26,Kaggle-LinkedIn-Synthetic
+JOB-00297,React Developer,Gojek,"Austin, TX",Frontend Developer,Director,Full-time,2024-01-11,Kaggle-LinkedIn-Synthetic
+JOB-00298,Senior Frontend Developer,Agoda,"Seattle, WA",Frontend Developer,Director,Full-time,2024-02-15,Kaggle-LinkedIn-Synthetic
+JOB-00299,Junior Frontend Developer,Zenius,"London, UK",Frontend Developer,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00300,UI Developer,Vercel,"Austin, TX",Frontend Developer,Entry level,Full-time,2024-06-07,Kaggle-LinkedIn-Synthetic
+JOB-00301,Frontend Engineer,Figma Inc.,"Medan, Indonesia",Frontend Developer,Executive,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00302,UI Developer,Tiket.com,"Seattle, WA",Frontend Developer,Associate,Part-time,2024-06-28,Kaggle-LinkedIn-Synthetic
+JOB-00303,Frontend Engineer,Tokopedia,"Bali, Indonesia",Frontend Developer,,Full-time,2024-05-11,Kaggle-LinkedIn-Synthetic
+,Senior Frontend Developer,Grab,Hybrid - Jakarta,Frontend Developer,Executive,Contract,2024-02-08,Kaggle-LinkedIn-Synthetic
+JOB-00305,JavaScript Developer,ByteDance,"Jakarta, ID",Frontend Developer,Mid-Senior level,Freelance,2024/10/15,Kaggle-LinkedIn-Synthetic
+JOB-00306,JavaScript Developer,Stripe,Hybrid - Jakarta,Frontend Developer,,Internship,2024-06-10,Kaggle-LinkedIn-Synthetic
+JOB-00307,Lead Frontend Developer,GitHub,"Amsterdam, Netherlands",Frontend Developer,Executive,Full-time,2024-08-14,Kaggle-LinkedIn-Synthetic
+JOB-00308,React Developer,Twitter/X,,Frontend Developer,Entry level,Internship,2024-09-16,Kaggle-LinkedIn-Synthetic
+JOB-00309,React Developer,Agoda,"Berlin, Germany",Frontend Developer,Associate,full-time,2024-01-20,Kaggle-LinkedIn-Synthetic
+JOB-00310,Vue.js Developer,Spotify,"Surabaya, Indonesia",Frontend Developer,Mid-Senior level,Full-time,2024/11/26,Kaggle-LinkedIn-Synthetic
+JOB-00311,Web Developer,Notion,"Berlin, Germany",Frontend Developer,Associate,Internship,2024-10-24,Kaggle-LinkedIn-Synthetic
+JOB-00312,Lead Frontend Developer,Tiket.com,"New York, NY",Frontend Developer,Director,Full-time,2024-11-05,Kaggle-LinkedIn-Synthetic
+JOB-00313,UI Developer,Grab,"Bandung, Indonesia",Frontend Developer,,,2024-08-18,Kaggle-LinkedIn-Synthetic
+JOB-00314,Vue.js Developer,Vercel,HYBRID - JAKARTA,Frontend Developer,Mid-Senior level,Internship,2024-11-26,Kaggle-LinkedIn-Synthetic
+JOB-00315,Frontend Developer,Zenius,,Frontend Developer,Associate,Full-time,2024-08-12,Kaggle-LinkedIn-Synthetic
+JOB-00316,Vue.js Developer,GitLab,"San Francisco, CA",Frontend Developer,Mid-Senior level,Contract,2024-07-17,Kaggle-LinkedIn-Synthetic
+JOB-00317,Vue.js Developer,Twitter/X,Hybrid - Jakarta,Frontend Developer,Associate,Full-time,2024/11/27,Kaggle-LinkedIn-Synthetic
+JOB-00318,Junior Frontend Developer,Figma Inc.,"Yogyakarta, Indonesia",Frontend Developer,Associate,Internship,2024-10-12,Kaggle-LinkedIn-Synthetic
+JOB-00319,React Developer,Kitabisa,Hybrid - Singapore,Frontend Developer,Entry level,Freelance,2024-11-04,Kaggle-LinkedIn-Synthetic
+JOB-00320,Vue.js Developer,Vercel,"Seoul, South Korea",Frontend Developer,Director,Full-time,2024-12-05,Kaggle-LinkedIn-Synthetic
+JOB-00321,Vue.js Developer,Airbnb,Hybrid - Jakarta,Frontend Developer,Entry level,Full-time,2024-12-23,Kaggle-LinkedIn-Synthetic
+JOB-00322,Senior Frontend Developer,Vercel,"San Francisco, CA",Frontend Developer,Executive,Full-time,2024-10-13,Kaggle-LinkedIn-Synthetic
+JOB-00323,JavaScript Developer,Figma Inc.,"Bali, Indonesia",Frontend Developer,Mid-Senior level,Internship,2024-12-09,Kaggle-LinkedIn-Synthetic
+JOB-00324,JavaScript Developer,Accenture,"Sydney, Australia",Frontend Developer,Mid-Senior level,Contract,2024-07-04,Kaggle-LinkedIn-Synthetic
+JOB-00325,Vue.js Developer,Airbnb,"Medan, Indonesia",Frontend Developer,Entry level,Full time,2024-04-19,Kaggle-LinkedIn-Synthetic
+JOB-00326,Lead Frontend Developer,Tiket.com,"Kuala Lumpur, Malaysia",Frontend Developer,Entry level,Full-time,2024-03-11,Kaggle-LinkedIn-Synthetic
+JOB-00327,Junior Frontend Developer,Spotify,"Yogyakarta, Indonesia",Frontend Developer,,,2024-09-16,Kaggle-LinkedIn-Synthetic
+JOB-00328,JavaScript Developer,Figma Inc.,Remote,Frontend Developer,Associate,Internship,2024-03-08,Kaggle-LinkedIn-Synthetic
+JOB-00329,Senior Frontend Developer,Traveloka,"jakarta, indonesia",Frontend Developer,Associate,Full-time,2024-12-20,Kaggle-LinkedIn-Synthetic
+JOB-00330,Full Stack Developer (Frontend Focus),ThoughtWorks,,Frontend Developer,Entry level,Full-time,2024-07-29,Kaggle-LinkedIn-Synthetic
+JOB-00331,JavaScript Developer,Zenius,"Berlin, Germany",Frontend Developer,Executive,Internship,2024-11-08,Kaggle-LinkedIn-Synthetic
+JOB-00332,Full Stack Developer (Frontend Focus),ThoughtWorks,"Kuala Lumpur, Malaysia",Frontend Developer,,Contract,,Kaggle-LinkedIn-Synthetic
+JOB-00333,React Developer,Sea Group,Singapore,Frontend Developer,Associate ,Contract,2024-07-07,Kaggle-LinkedIn-Synthetic
+JOB-00334,Lead Frontend Developer,Spotify,"Austin, TX",Frontend Developer,Entry level,Internship,2024-09-14,Kaggle-LinkedIn-Synthetic
+JOB-00335,Senior Frontend Developer,Tiket.com,Remote,Frontend Developer,Entry level,Contract,2024-03-11,Kaggle-LinkedIn-Synthetic
+JOB-00336,Frontend Developer,Sea Group,"Seattle, WA",Frontend Developer,mid level,Full-time,2024-10-10,Kaggle-LinkedIn-Synthetic
+JOB-00337,Full Stack Developer (Frontend Focus),Gojek," Bandung , Indonesia ",Frontend Developer,Executive,Full-time,2024-02-12,Kaggle-LinkedIn-Synthetic
+JOB-00338,React Developer,ThoughtWorks,"Sydney, Australia",Frontend Developer,Mid-Senior level,Contractor,2024-03-16,Kaggle-LinkedIn-Synthetic
+JOB-00339,Junior Frontend Developer,Ruangguru,"Berlin, Germany",Frontend Developer,Associate,Contract,2024/06/27,Kaggle-LinkedIn-Synthetic
+JOB-00340,Frontend Developer Intern,Twitter/X,,Frontend Developer,,full-time,2024-09-14,Kaggle-LinkedIn-Synthetic
+JOB-00341,Frontend Engineer,Notion,"Surabaya, Indonesia",Frontend Developer,Mid-Senior level,Full-time,2024-07-10,Kaggle-LinkedIn-Synthetic
+JOB-00342,Frontend Developer,Stripe,"Yogyakarta, Indonesia",Frontend Developer,Associate,Full-time,2024-11-28,Kaggle-LinkedIn-Synthetic
+JOB-00343,Senior Frontend Developer,Shopee,"Bandung, Indonesia",Frontend Developer,Mid-Senior level,Full-time,2024-05-26,Kaggle-LinkedIn-Synthetic
+JOB-00344,Full Stack Developer (Frontend Focus),Shopee,"Amsterdam, Netherlands",Frontend Developer,Mid-Senior level,Full-time,2024-08-17,Kaggle-LinkedIn-Synthetic
+JOB-00345,Junior Frontend Developer,Microsoft,"Bangkok, Thailand",Frontend Developer,Associate,Full-time,2024-04-20,Kaggle-LinkedIn-Synthetic
+JOB-00346,UI Developer,Accenture,"Yogyakarta, Indonesia",Frontend Developer,Entry level,Freelance,2024-05-27,Kaggle-LinkedIn-Synthetic
+JOB-00347,React Developer,Gojek,"Bandung, Indonesia",Frontend Developer,Entry level,Full-time,2024-05-02,Kaggle-LinkedIn-Synthetic
+JOB-00348,JavaScript Developer,Agoda,"Surabaya, Indonesia",Frontend Developer,Mid-Senior level,Contract,2024-02-26,Kaggle-LinkedIn-Synthetic
+JOB-00349,Web Developer,Microsoft,Hybrid - Jakarta,Frontend Developer,Entry level,Full-time,2024-09-20,Kaggle-LinkedIn-Synthetic
+JOB-00350,Full Stack Developer (Frontend Focus),Grab,"Jakarta, ID",Frontend Developer,Entry level,Internship,2024/08/07,Kaggle-LinkedIn-Synthetic
+JOB-00351,Web Developer,Atlassian,"Kuala Lumpur, Malaysia",Frontend Developer,Entry level,Freelance,2024/10/19,Kaggle-LinkedIn-Synthetic
+JOB-00352,Senior Frontend Developer,Vercel,"Sydney, Australia",Frontend Developer,Director,Full-time,2024-07-03,Kaggle-LinkedIn-Synthetic
+JOB-00353,UI Developer,Microsoft,remote,Frontend Developer,Executive,Full-time,2024-08-28,Kaggle-LinkedIn-Synthetic
+JOB-00354,JavaScript Developer,Notion,"Seattle, WA",Frontend Developer,Entry level,Full-time,2024-05-09,Kaggle-LinkedIn-Synthetic
+JOB-00355,Vue.js Developer,GitHub,"jakarta, indonesia",Frontend Developer,,Internship,2024-05-03,Kaggle-LinkedIn-Synthetic
+JOB-00356,Web Developer,Figma Inc.,"Bali, Indonesia",Frontend Developer,,Freelance ,2024-01-23,Kaggle-LinkedIn-Synthetic
+JOB-00357,UI Developer,Figma Inc.,Hybrid - Jakarta,Frontend Developer,Executive,Full-time,2024-03-30,Kaggle-LinkedIn-Synthetic
+JOB-00358,Full Stack Developer (Frontend Focus),Sea Group,Hybrid - Jakarta,Frontend Developer,Mid-Senior level,Full-time,2024-04-03,Kaggle-LinkedIn-Synthetic
+JOB-00359,Junior Frontend Developer,Agoda,"Bandung, Indonesia",Frontend Developer,Associate,Full-time,2024-05-30,Kaggle-LinkedIn-Synthetic
+JOB-00360,Frontend Developer,Tiket.com,"Bandung, Indonesia",Frontend Developer,Entry level,Freelance,2024-06-10,Kaggle-LinkedIn-Synthetic
+JOB-00361,UI Developer,Canva,"Tokyo, Japan",Frontend Developer,Mid-Senior level,Full-time,2024-08-30,Kaggle-LinkedIn-Synthetic
+JOB-00362,Frontend Developer,Tiket.com,"San Francisco, CA",Frontend Developer,Director,Full-time,2024-07-01,Kaggle-LinkedIn-Synthetic
+JOB-00363,JavaScript Developer,Figma Inc.,"Bangkok, Thailand",Frontend Developer,,Part-time,,Kaggle-LinkedIn-Synthetic
+JOB-00364,Frontend Developer Intern,Canva," Bandung , Indonesia ",Frontend Developer,Associate,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00365,Senior Frontend Developer,ByteDance," Bandung , Indonesia ",Frontend Developer,Associate,Full-time,2024/07/07,Kaggle-LinkedIn-Synthetic
+JOB-00366,Junior Frontend Developer,Accenture,"Surabaya, Indonesia",Frontend Developer,Entry level,Contract,2024-08-08,Kaggle-LinkedIn-Synthetic
+JOB-00367,UI Developer,Spotify,"New York, NY",Frontend Developer,mid level,Freelance,2024-02-22,Kaggle-LinkedIn-Synthetic
+JOB-00368,Vue.js Developer,Spotify,"San Francisco, CA",Frontend Developer,Mid-Senior level,Full-time,2024-08-16,Kaggle-LinkedIn-Synthetic
+JOB-00369,Senior Frontend Developer,ThoughtWorks,"Seattle, WA",Frontend Developer,Entry level,Contract,2024-08-16,Kaggle-LinkedIn-Synthetic
+JOB-00370,Full Stack Developer (Frontend Focus),Atlassian,Remote,Frontend Developer,n/a,Internship,2024-08-10,Kaggle-LinkedIn-Synthetic
+JOB-00371,JavaScript Developer,Twitter/X,"Surabaya, Indonesia",Frontend Developer,Associate,Full-time,2024-12-09,Kaggle-LinkedIn-Synthetic
+JOB-00372,Vue.js Developer,Traveloka,,Frontend Developer,Associate,Full-time,2024-03-14,Kaggle-LinkedIn-Synthetic
+JOB-00373,Frontend Developer,Shopee,"Surabaya, Indonesia",Frontend Developer,Associate,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00374,Vue.js Developer,Notion,"Seoul, South Korea",Frontend Developer,Entry level,contract,,Kaggle-LinkedIn-Synthetic
+JOB-00375,JavaScript Developer,ThoughtWorks,"Seattle, WA",Frontend Developer,Executive,Full-time,2024-07-09,Kaggle-LinkedIn-Synthetic
+JOB-00376,Junior Frontend Developer,Shopee,"Sydney, Australia",Frontend Developer,Associate,Full-time,2024/07/06,Kaggle-LinkedIn-Synthetic
+JOB-00377,Vue.js Developer,Netflix,"Kuala Lumpur, Malaysia",Frontend Developer,Associate,Full-time,2024-02-28,Kaggle-LinkedIn-Synthetic
+JOB-00378,Full Stack Developer (Frontend Focus),Bukalapak,"Amsterdam, Netherlands",Frontend Developer,Director,n/a,2024-09-22,Kaggle-LinkedIn-Synthetic
+JOB-00379,UI Developer,Gojek,"Bangkok, Thailand",Frontend Developer,Director,Full-time,2024-05-13,Kaggle-LinkedIn-Synthetic
+JOB-00380,Frontend Engineer,Spotify,"Amsterdam, Netherlands",Frontend Developer,Mid-Senior level,Full-time,2024-04-12,Kaggle-LinkedIn-Synthetic
+JOB-00381,Senior Frontend Developer,GitHub,,Frontend Developer,Director,Full-time,2024-03-29,Kaggle-LinkedIn-Synthetic
+JOB-00382,Junior Frontend Developer,Stripe,Hybrid - Singapore,Frontend Developer,Mid-Senior level,contract,2024-06-26,Kaggle-LinkedIn-Synthetic
+JOB-00383,UI Developer,Spotify,"San Francisco, CA",Frontend Developer,Associate,n/a,2024-03-21,Kaggle-LinkedIn-Synthetic
+,Vue.js Developer,Ruangguru,"Yogyakarta, Indonesia",Frontend Developer,Executive,Full-time,2024-04-12,Kaggle-LinkedIn-Synthetic
+JOB-00385,Frontend Engineer,ByteDance,"Jakarta, Indonesia",Frontend Developer,Entry level,Full-time,2024-07-03,Kaggle-LinkedIn-Synthetic
+JOB-00386,Lead Frontend Developer,Shopee,Remote,Frontend Developer,Director,Part-time,2024-02-14,Kaggle-LinkedIn-Synthetic
+JOB-00387,React Developer,Canva,"Amsterdam, Netherlands",Frontend Developer,Mid-Senior level,Freelance,2024-09-26,Kaggle-LinkedIn-Synthetic
+JOB-00388,Frontend Developer Intern,GitHub,"Bali, Indonesia",Frontend Developer,Associate,Full-time,2024-06-11,Kaggle-LinkedIn-Synthetic
+JOB-00389,Lead Frontend Developer,Agoda,Hybrid - Singapore,Frontend Developer,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00390,Senior Frontend Developer,Bukalapak,"Bali, Indonesia",Frontend Developer,Mid-Senior level,Full-time,2024-08-09,Kaggle-LinkedIn-Synthetic
+JOB-00391,Junior Frontend Developer,Grab," Bandung , Indonesia ",Frontend Developer,Entry level,Part-time,2024-03-25,Kaggle-LinkedIn-Synthetic
+JOB-00392,Vue.js Developer,Ruangguru,"Seattle, WA",Frontend Developer,Mid-Senior level,Contract,2024-09-22,Kaggle-LinkedIn-Synthetic
+JOB-00393,Junior Frontend Developer,Kitabisa,Singapore,Frontend Developer,Entry level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00394,Senior Frontend Developer,Airbnb,Remote,Frontend Developer,Entry level,Full-time,2024-09-30,Kaggle-LinkedIn-Synthetic
+JOB-00395,UI Developer,Traveloka,"Seoul, South Korea",Frontend Developer,Mid-Senior level,Full-time,2024/10/24,Kaggle-LinkedIn-Synthetic
+JOB-00396,Senior Frontend Developer,Figma Inc.,"Seoul, South Korea",Frontend Developer,Associate,Intern,2024/01/22,Kaggle-LinkedIn-Synthetic
+,Junior Frontend Developer,Meta,Hybrid - Jakarta,Frontend Developer,Mid-Senior level,Full-time,2024-10-22,Kaggle-LinkedIn-Synthetic
+JOB-00398,JavaScript Developer,Blibli," Bandung , Indonesia ",Frontend Developer,Mid-Senior level,Full-time,2024-08-01,Kaggle-LinkedIn-Synthetic
+JOB-00399,Lead Frontend Developer,Spotify,Hybrid - Jakarta,Frontend Developer,Associate,Contract,2024-06-03,Kaggle-LinkedIn-Synthetic
+JOB-00400,Frontend Engineer,Canva,"San Francisco, CA",Frontend Developer,Mid-Senior level,Intern,2024-08-20,Kaggle-LinkedIn-Synthetic
+JOB-00401,UX/UI Designer,Meta,"Medan, Indonesia",UI/UX DESIGNER,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00402,Interaction Designer,IDEO,Singapore,UI/UX Designer,Entry level,Full-time,2024-06-23,Kaggle-LinkedIn-Synthetic
+,Product Designer,Canva,"Seattle, WA",UI/UX Designer,executive ,Internship,2024-07-23,Kaggle-LinkedIn-Synthetic
+JOB-00404,Product Designer,Tokopedia,"New York, NY",UI/UX Designer,,,2024-05-03,Kaggle-LinkedIn-Synthetic
+JOB-00405,Junior UI/UX Designer,Spotify,"Berlin, Germany",UI/UX Designer,Entry level,Full-time,2024-05-06,Kaggle-LinkedIn-Synthetic
+,Junior UI/UX Designer,Meta,"San Francisco, CA",UI/UX Designer,Entry level,Full-time,2024-07-15,Kaggle-LinkedIn-Synthetic
+JOB-00407,UX Designer,Traveloka,"New York, NY",UI/UX DESIGNER,Director,Full-time,2024-10-22,Kaggle-LinkedIn-Synthetic
+JOB-00408,UX Designer,Traveloka,"Amsterdam, Netherlands",UI/UX Designer,Associate,Full-time,2024-09-20,Kaggle-LinkedIn-Synthetic
+JOB-00409,Interaction Designer,Pinterest,"Amsterdam, Netherlands",UI/UX Designer,Director,Full-time,2024-01-12,Kaggle-LinkedIn-Synthetic
+JOB-00410,UX Researcher,IDEO,"Kuala Lumpur, Malaysia",UI/UX Designer,Mid-Senior level,Full-time,2024-04-20,Kaggle-LinkedIn-Synthetic
+JOB-00411,UI/UX Designer,Meta,,UI/UX Designer,Associate,Contract,2024-09-10,Kaggle-LinkedIn-Synthetic
+JOB-00412,UI Designer,Google,"Yogyakarta, Indonesia",UI/UX Designer,Associate,Full-time,2024-08-08,Kaggle-LinkedIn-Synthetic
+JOB-00413,UI Designer,SAP,"Austin, TX",UI/UX Designer,Mid-Senior level,Full-time,2024-07-06,Kaggle-LinkedIn-Synthetic
+JOB-00414,UX Researcher,Meta,HYBRID - JAKARTA,UI/UX Designer,Associate,Full-time,2024-10-14,Kaggle-LinkedIn-Synthetic
+JOB-00415,Product Designer,Netflix,"Surabaya, Indonesia",UI/UX Designer,Associate,Part-time,2024-07-16,Kaggle-LinkedIn-Synthetic
+,Visual Designer,Spotify,Remote,UI/UX Designer,Director,Freelance,2024-12-14,Kaggle-LinkedIn-Synthetic
+JOB-00417,Senior UI/UX Designer,Tokopedia,"Austin, TX",UI/UX Designer,Director,Full-time,2024-07-10,Kaggle-LinkedIn-Synthetic
+JOB-00418,Visual Designer,SAP,"Bali, Indonesia",UI/UX Designer,n/a,Internship,2024-04-11,Kaggle-LinkedIn-Synthetic
+JOB-00419,Visual Designer,Microsoft,"Bandung, Indonesia",UI/UX Designer,Associate,Internship,2024-01-20,Kaggle-LinkedIn-Synthetic
+JOB-00420,UX/UI Designer,Notion,"Amsterdam, Netherlands",UI/UX Designer,n/a,Full-time,2024-09-22,Kaggle-LinkedIn-Synthetic
+JOB-00421,Senior UI/UX Designer,Shopee,"New York, NY",UI/UX Designer,,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00422,Senior UI/UX Designer,InVision,Remote,UI/UX Designer,Associate,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00423,Visual Designer,Fjord,"Seoul, South Korea",UI/UX Designer,Associate,Full-time,2024-06-02,Kaggle-LinkedIn-Synthetic
+JOB-00424,UI/UX Designer,SAP,"New York, NY",UI/UX Designer,Entry level,Full-time,2024-12-10,Kaggle-LinkedIn-Synthetic
+JOB-00425,UX Researcher,Pinterest,Hybrid - Jakarta,UI/UX Designer,Mid-Senior level,,2024-01-14,Kaggle-LinkedIn-Synthetic
+JOB-00426,UI Designer,Tiket.com,"Bandung, Indonesia",UI/UX Designer,Director,Full-time,2024-10-25,Kaggle-LinkedIn-Synthetic
+JOB-00427,Senior UI/UX Designer,Adobe,"Bali, Indonesia",UI/UX DESIGNER,Mid-Senior level,Full-time,2024-12-14,Kaggle-LinkedIn-Synthetic
+JOB-00428,UI/UX Designer,Gojek,Singapore,UI/UX Designer,Associate,Contract,2024-01-10,Kaggle-LinkedIn-Synthetic
+JOB-00429,Product Designer,Maze,"Bali, Indonesia",UI/UX Designer,Director,Full-time,2024-07-30,Kaggle-LinkedIn-Synthetic
+JOB-00430,UX Researcher,Frog Design,"Bandung, Indonesia",UI/UX Designer,Seniorr,Full-time,2024-12-27,Kaggle-LinkedIn-Synthetic
+JOB-00431,Visual Designer,Zenius,"Tokyo, Japan",UI/UX Designer,Associate ,,2024/06/15,Kaggle-LinkedIn-Synthetic
+JOB-00432,Visual Designer,Adobe,"New York, NY",UI/UX Designer,Executive,Internship,2024-03-29,Kaggle-LinkedIn-Synthetic
+JOB-00433,Visual Designer,Notion," Bandung , Indonesia ",UI/UX Designer,Associate,Contract,2024-06-30,Kaggle-LinkedIn-Synthetic
+JOB-00434,Design Intern,Frog Design,Singapore,UI/UX Designer,Mid-Senior level,,2024-05-06,Kaggle-LinkedIn-Synthetic
+JOB-00435,Visual Designer,Pinterest,"Kuala Lumpur, Malaysia",UI/UX DESIGNER,Associate,Full-time,2024/06/01,Kaggle-LinkedIn-Synthetic
+JOB-00436,UX/UI Designer,Zenius,"Amsterdam, Netherlands",UI/UX Designer,Director,Freelance,2024-06-11,Kaggle-LinkedIn-Synthetic
+JOB-00437,Product Designer,Spotify,"San Francisco, CA",UI/UX Designer,Entry level,Contract,,Kaggle-LinkedIn-Synthetic
+JOB-00438,UX Researcher,IBM,"Bali, Indonesia",UI/UX Designer,,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00439,UI Designer,Figma Inc.,"Seattle, WA",UI/UX Designer,Associate,,2024/08/14,Kaggle-LinkedIn-Synthetic
+JOB-00440,UX/UI Designer,Frog Design,Singapore,UI/UX Designer,Entry level,Freelance ,2024-04-13,Kaggle-LinkedIn-Synthetic
+JOB-00441,Visual Designer,Spotify,"Bali, Indonesia",UI/UX Designer,Mid-Senior level,Full-time,2024-02-25,Kaggle-LinkedIn-Synthetic
+JOB-00442,UX Designer,Meta,Hybrid - Singapore,UI/UX Designer,Mid-Senior level,,2024/09/28,Kaggle-LinkedIn-Synthetic
+JOB-00443,Lead Product Designer,Tiket.com,"Bandung, Indonesia",UI/UX Designer,Director,Full-time,2024-02-21,Kaggle-LinkedIn-Synthetic
+JOB-00444,Product Designer,Frog Design,"Yogyakarta, Indonesia",UI/UX Designer,Intern,Internship,2024-12-14,Kaggle-LinkedIn-Synthetic
+JOB-00445,UI/UX Designer,Traveloka,"London, UK",UI/UX Designer,Entry level,Full-time,2024-11-30,Kaggle-LinkedIn-Synthetic
+JOB-00446,Interaction Designer,Ruangguru,"San Francisco, CA",UI/UX Designer,,Internship,2024-06-13,Kaggle-LinkedIn-Synthetic
+JOB-00447,Lead Product Designer,Meta,"Surabaya, Indonesia",UI/UX Designer,Associate,Full-time,2024-11-29,Kaggle-LinkedIn-Synthetic
+JOB-00448,Visual Designer,Microsoft,"Medan, Indonesia",UI/UX Designer,,Full-time,2024/08/01,Kaggle-LinkedIn-Synthetic
+JOB-00449,UI/UX Designer,InVision,"jakarta, indonesia",UI/UX Designer,Mid-Senior level,Full-time,2024-04-05,Kaggle-LinkedIn-Synthetic
+,UI/UX Designer,Google,"San Francisco, CA",UI/UX Designer,Executive,Part-time,2024-10-17,Kaggle-LinkedIn-Synthetic
+JOB-00451,Product Designer,Netflix,"Berlin, Germany",UI/UX Designer,Associate,Internship,2024-11-24,Kaggle-LinkedIn-Synthetic
+JOB-00452,Senior UI/UX Designer,IDEO,"Bangkok, Thailand",UI/UX Designer,Director,Full-time,2024-04-08,Kaggle-LinkedIn-Synthetic
+JOB-00453,Product Designer,Traveloka,"Berlin, Germany",UI/UX Designer,Associate,Part-time,2024-11-27,Kaggle-LinkedIn-Synthetic
+JOB-00454,UX/UI Designer,Bukalapak,"Jakarta, Indonesia",UI/UX Designer,Associate,Part-time,2024-06-21,Kaggle-LinkedIn-Synthetic
+JOB-00455,Design Intern,Ruangguru,"Medan, Indonesia",UI/UX Designer,Associate,Full-time,2024-11-08,Kaggle-LinkedIn-Synthetic
+,UX Researcher,Canva,"Surabaya, Indonesia",UI/UX Designer,Associate,Internship,2024/07/24,Kaggle-LinkedIn-Synthetic
+JOB-00457,Senior UI/UX Designer,Shopee,"Amsterdam, Netherlands",UI/UX Designer,Associate,Full-time,2024-06-14,Kaggle-LinkedIn-Synthetic
+JOB-00458,UI/UX Designer,Halodoc,"Austin, TX",UI/UX Designer,Associate,Contract,,Kaggle-LinkedIn-Synthetic
+,UI Designer,Notion,"San Francisco, CA",UI/UX Designer,Entry level,contract,2024-10-25,Kaggle-LinkedIn-Synthetic
+JOB-00460,UI Designer,SAP,"Kuala Lumpur, Malaysia",UI/UX Designer,Mid-Senior level,Freelance,2024-02-01,Kaggle-LinkedIn-Synthetic
+,Interaction Designer,Pinterest,"Medan, Indonesia", ui/ux designer ,Mid-Senior level,Full-time,2024-07-26,Kaggle-LinkedIn-Synthetic
+JOB-00462,UX/UI Designer,Gojek,Hybrid - Jakarta, ui/ux designer ,Mid-Senior level,Full-time,2024/05/31,Kaggle-LinkedIn-Synthetic
+JOB-00463,Design Intern,Tiket.com,"Kuala Lumpur, Malaysia",UI/UX Designer,,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00464,Senior UI/UX Designer,IDEO,Remote,UI/UX Designer,Associate,Full-time,2024-07-10,Kaggle-LinkedIn-Synthetic
+JOB-00465,UX/UI Designer,Frog Design,"Jakarta, ID",UI/UX Designer,Associate,n/a,2024/12/06,Kaggle-LinkedIn-Synthetic
+JOB-00466,UX Designer,Figma Inc.,"Sydney, Australia",UI/UX Designer,Entry level,Full-time,2024-08-16,Kaggle-LinkedIn-Synthetic
+JOB-00467,Junior UI/UX Designer,Gojek,"Bandung, Indonesia",UI/UX Designer,,Full-time,2024-10-07,Kaggle-LinkedIn-Synthetic
+JOB-00468,Design Intern,Grab,"Medan, Indonesia",UI/UX Designer,Associate,Contract,2024-06-16,Kaggle-LinkedIn-Synthetic
+JOB-00469,Junior UI/UX Designer,Zenius,"Seoul, South Korea",UI/UX Designer,Entry level,,2024/09/07,Kaggle-LinkedIn-Synthetic
+JOB-00470,Visual Designer,McKinsey Digital,"Bandung, Indonesia",UI/UX Designer,Entry level,Internship,2024-08-20,Kaggle-LinkedIn-Synthetic
+JOB-00471,Visual Designer,Maze,"Berlin, Germany",UI/UX Designer,Entry level,Full-time,2024-10-15,Kaggle-LinkedIn-Synthetic
+JOB-00472,Visual Designer,IDEO,Hybrid - Singapore,UI/UX Designer,Associate,Full-time,2024-06-06,Kaggle-LinkedIn-Synthetic
+JOB-00473,UX Researcher,Halodoc,"Jakarta, Indonesia",UI/UX Designer,Entry level,Full-time,2024-04-21,Kaggle-LinkedIn-Synthetic
+JOB-00474,UI/UX Designer,Accenture,"jakarta, indonesia",UI/UX Designer,Entry level,Full-time,2024-12-24,Kaggle-LinkedIn-Synthetic
+JOB-00475,Visual Designer,Meta,,UI/UX Designer,Associate,Full-time,2024-08-29,Kaggle-LinkedIn-Synthetic
+JOB-00476,UI Designer,Maze,remote,UI/UX Designer,Associate,Full-time,2024/03/10,Kaggle-LinkedIn-Synthetic
+JOB-00477,Product Designer,Adobe,"Berlin, Germany",UI/UX Designer,Associate,Internship,2024-07-12,Kaggle-LinkedIn-Synthetic
+JOB-00478,Junior UI/UX Designer,Shopee,Hybrid - Jakarta,UI/UX Designer,Associate,Full-time,2024-06-27,Kaggle-LinkedIn-Synthetic
+JOB-00479,Senior UI/UX Designer,InVision,"Sydney, Australia",UI/UX Designer,Associate,Internship,2024-03-06,Kaggle-LinkedIn-Synthetic
+JOB-00480,UI/UX Designer,Apple,"San Francisco, CA",UI/UX Designer,Associate,Part-time,2024-08-25,Kaggle-LinkedIn-Synthetic
+JOB-00481,Visual Designer,Adobe,"Kuala Lumpur, Malaysia",UI/UX Designer,,Internship,2024-05-06,Kaggle-LinkedIn-Synthetic
+JOB-00482,Product Designer,Grab,"Bangkok, Thailand",UI/UX Designer,Entry level,Contract,2024-04-06,Kaggle-LinkedIn-Synthetic
+JOB-00483,UI/UX Designer,Maze,Remote,UI/UX Designer,,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00484,UX Designer,Airbnb,"Yogyakarta, Indonesia",UI/UX Designer,Entry level,Contract,2024-10-31,Kaggle-LinkedIn-Synthetic
+JOB-00485,Interaction Designer,Meta,"Kuala Lumpur, Malaysia",UI/UX DESIGNER,Associate,Internship,2024-01-23,Kaggle-LinkedIn-Synthetic
+JOB-00486,Interaction Designer,Tiket.com,"Tokyo, Japan",UI/UX Designer,Entry level,,2024-04-21,Kaggle-LinkedIn-Synthetic
+JOB-00487,Senior UI/UX Designer,Netflix,"Kuala Lumpur, Malaysia",UI/UX Designer,Mid-Senior level,Part time,2024/10/21,Kaggle-LinkedIn-Synthetic
+JOB-00488,Design Intern,Canva,"Kuala Lumpur, Malaysia", UI/UX DESIGNER ,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00489,Lead Product Designer,Tiket.com,"London, UK",UI/UX Designer,Director,Full-time,2024-06-02,Kaggle-LinkedIn-Synthetic
+JOB-00490,UI/UX Designer,Bukalapak,Hybrid - Jakarta,UI/UX Designer,n/a,Full-time,2024-12-13,Kaggle-LinkedIn-Synthetic
+JOB-00491,Visual Designer,Fjord,"Bandung, Indonesia",UI/UX Designer,Director,,2024/06/25,Kaggle-LinkedIn-Synthetic
+JOB-00492,Visual Designer,Canva,"London, UK",UI/UX Designer,Director,Full-time,2024-07-28,Kaggle-LinkedIn-Synthetic
+JOB-00493,UI Designer,Adobe,"Medan, Indonesia",UI/UX Designer,Executive,Full-time,2024-10-02,Kaggle-LinkedIn-Synthetic
+JOB-00494,UX Designer,Tiket.com,,UI/UX Designer,Associate,Full-time,2024/12/28,Kaggle-LinkedIn-Synthetic
+JOB-00495,Interaction Designer,Meta,"Tokyo, Japan",UI/UX DESIGNER,Mid-Senior level,Full-time,2024-07-30,Kaggle-LinkedIn-Synthetic
+JOB-00496,Visual Designer,Shopee,"Austin, TX",UI/UX Designer,Associate,Full-time,2024-05-04,Kaggle-LinkedIn-Synthetic
+,UX Designer,Notion,Hybrid - Jakarta,UI/UX Designer,Mid-Senior level,Full-time,2024-02-10,Kaggle-LinkedIn-Synthetic
+JOB-00498,Product Designer,Figma Inc.,"Tokyo, Japan",UI/UX Designer,Associate,Contractor,2024-04-07,Kaggle-LinkedIn-Synthetic
+JOB-00499,UI Designer,Adobe,Hybrid - Singapore,UI/UX Designer,Mid-Senior level,Full-time,2024-11-05,Kaggle-LinkedIn-Synthetic
+JOB-00500,Junior UI/UX Designer,Ruangguru,"Seoul, South Korea",UI/UX Designer,Associate,Full-time,2024/12/09,Kaggle-LinkedIn-Synthetic
+JOB-00501,Interaction Designer,Zenius,,UI/UX Designer,Entry level,Full-time,2024-06-04,Kaggle-LinkedIn-Synthetic
+JOB-00502,UX Designer,Ruangguru,"Yogyakarta, Indonesia",UI/UX Designer,Entry level,Full-time,2024-09-02,Kaggle-LinkedIn-Synthetic
+JOB-00503,UX/UI Designer,Zenius,,UI/UX Designer,Associate,,2024-05-02,Kaggle-LinkedIn-Synthetic
+JOB-00504,UI Designer,Adobe,"Berlin, Germany",UI/UX Designer,Director,Full-time,2024-09-30,Kaggle-LinkedIn-Synthetic
+JOB-00505,UI Designer,Halodoc,"Seattle, WA",UI/UX Designer,Associate,Full-time,2024-09-19,Kaggle-LinkedIn-Synthetic
+JOB-00506,Interaction Designer,Tokopedia,Hybrid- Singapore,UI/UX Designer,Associate,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00507,Product Designer,Canva,"London, UK",UI/UX Designer,Mid-Senior level,Contract,2024-01-24,Kaggle-LinkedIn-Synthetic
+JOB-00508,UX/UI Designer,Grab,,UI/UX Designer,Associate,Freelance,2024/05/13,Kaggle-LinkedIn-Synthetic
+JOB-00509,UI Designer,Grab,Singapore,UI/UX Designer,,Full-time,2024-06-17,Kaggle-LinkedIn-Synthetic
+JOB-00510,UX Researcher,Kitabisa,HYBRID - JAKARTA,UI/UX Designer,Mid-Senior level,Internship,2024-10-08,Kaggle-LinkedIn-Synthetic
+JOB-00511,UI Designer,Fjord,Hybrid - Jakarta,UI/UX Designer,Executive,Full-time,2024-09-08,Kaggle-LinkedIn-Synthetic
+JOB-00512,Senior UI/UX Designer,IBM,"Medan, Indonesia",UI/UX Designer,Mid-Senior level,Full-time,2024-03-12,Kaggle-LinkedIn-Synthetic
+JOB-00513,Senior UI/UX Designer,Meta,"Sydney, Australia",UI/UX Designer,Mid-Senior level,Internship,2024-01-18,Kaggle-LinkedIn-Synthetic
+JOB-00514,Lead Product Designer,Meta,"Jakarta, Indonesia",UI/UX Designer,Associate,Full-time,2024-07-30,Kaggle-LinkedIn-Synthetic
+JOB-00515,Lead Product Designer,Tiket.com,"Surabaya, Indonesia",UI/UX Designer,Mid-Senior level,Full-time,2024-12-28,Kaggle-LinkedIn-Synthetic
+JOB-00516,UI/UX Designer,Zenius,,UI/UX Designer,executive ,Full-time,2024-08-21,Kaggle-LinkedIn-Synthetic
+JOB-00517,UI/UX Designer,Frog Design,,UI/UX Designer,Associate,Full-time,2024-09-06,Kaggle-LinkedIn-Synthetic
+JOB-00518,UI/UX Designer,Maze,,UI/UX Designer,Entry level,Full-time,2024-01-09,Kaggle-LinkedIn-Synthetic
+JOB-00519,Visual Designer,Netflix,"Jakarta, Indonesia",UI/UX Designer,Intern,Contract,2024-09-14,Kaggle-LinkedIn-Synthetic
+JOB-00520,Senior UI/UX Designer,Tokopedia,"Yogyakarta, Indonesia",UI/UX Designer,Entry level,Freelance,2024-09-25,Kaggle-LinkedIn-Synthetic
+,UX Designer,Ruangguru,Remote,UI/UX Designer,Associate,Internship,2024-09-26,Kaggle-LinkedIn-Synthetic
+JOB-00522,Product Designer,Spotify,"Austin, TX",UI/UX Designer,Associate,Full-time,2024-02-10,Kaggle-LinkedIn-Synthetic
+JOB-00523,UX Researcher,IDEO,"Seoul, South Korea",UI/UX Designer,Entry level,Full-time,2024-05-04,Kaggle-LinkedIn-Synthetic
+JOB-00524,UI Designer,Figma Inc.,Hybrid - Jakarta,UI/UX Designer,Mid-Senior level,Full-time,2024-11-28,Kaggle-LinkedIn-Synthetic
+JOB-00525,Junior UI/UX Designer,InVision,"Austin, TX",UI/UX Designer,Associate,Full-time,2024-07-12,Kaggle-LinkedIn-Synthetic
+,UI/UX Designer,Google,HYBRID - JAKARTA,UI/UX Designer,Associate,Part time,2024-02-12,Kaggle-LinkedIn-Synthetic
+,UX Researcher,Notion,"Seoul, South Korea",UI/UX Designer,Associate,Full-time,2024-02-18,Kaggle-LinkedIn-Synthetic
+JOB-00528,UX Designer,Zenius,"Seoul, South Korea",UI/UX Designer,Associate,Full-time,2024-08-31,Kaggle-LinkedIn-Synthetic
+,UI/UX Designer,Airbnb,Hybrid - Singapore,UI/UX Designer,,Full-time,2024-05-23,Kaggle-LinkedIn-Synthetic
+JOB-00530,Senior UI/UX Designer,Canva,"Jakarta, Indonesia",ui/ux designer,Associate,Full-time,2024-04-16,Kaggle-LinkedIn-Synthetic
+JOB-00531,UX/UI Designer,InVision,"Surabaya, Indonesia",UI/UX Designer,Associate,Contract,2024-06-02,Kaggle-LinkedIn-Synthetic
+JOB-00532,Design Intern,Kitabisa,"Seoul, South Korea",UI/UX Designer,Associate,Internship,2024-07-18,Kaggle-LinkedIn-Synthetic
+JOB-00533,UX Researcher,Shopee,"Surabaya, Indonesia",UI/UX Designer,Associate,,2024-09-13,Kaggle-LinkedIn-Synthetic
+JOB-00534,UI/UX Designer,Tokopedia,"London, UK",UI/UX Designer,Entry level,Internship,2024-04-28,Kaggle-LinkedIn-Synthetic
+JOB-00535,Product Designer,InVision,"New York, NY",UI/UX Designer,Mid-Senior,Internship,,Kaggle-LinkedIn-Synthetic
+JOB-00536,Interaction Designer,Fjord,"Kuala Lumpur, Malaysia",UI/UX Designer,Associate,Full-time,2024-07-01,Kaggle-LinkedIn-Synthetic
+JOB-00537,UX Researcher,Bukalapak,Hybrid - Singapore,UI/UX Designer,Entry level,Internship,2024-10-26,Kaggle-LinkedIn-Synthetic
+JOB-00538,Junior UI/UX Designer,Netflix,remote,UI/UX Designer,Mid-Senior level,Full-time,2024-02-07,Kaggle-LinkedIn-Synthetic
+JOB-00539,UI Designer,Grab,"Austin, TX",UI/UX Designer,Mid-Senior level,Full-time,2024-12-30,Kaggle-LinkedIn-Synthetic
+JOB-00540,UX/UI Designer,Adobe,"New York, NY",UI/UX Designer,Mid-Senior level,Full-time,2024-07-03,Kaggle-LinkedIn-Synthetic
+JOB-00541,Junior UI/UX Designer,Google,"San Francisco, CA",UI/UX Designer,,Contract,2024-08-15,Kaggle-LinkedIn-Synthetic
+JOB-00542,UI Designer,Tokopedia,"Bali, Indonesia",UI/UX Designer,Entry level,Contract,2024-02-14,Kaggle-LinkedIn-Synthetic
+JOB-00543,UX Researcher,McKinsey Digital,"Tokyo, Japan",UI/UX Designer,Executive,Full-time,2024-10-11,Kaggle-LinkedIn-Synthetic
+JOB-00544,Junior UI/UX Designer,Apple,,UI/UX Designer,Mid-Senior level,Freelance ,2024-06-30,Kaggle-LinkedIn-Synthetic
+JOB-00545,Design Intern,Canva,"Austin, TX",UI/UX Designer,Associate,Contract,2024-01-07,Kaggle-LinkedIn-Synthetic
+JOB-00546,UX Researcher,Adobe,,UI/UX Designer,Associate,Full-time,2024-10-13,Kaggle-LinkedIn-Synthetic
+JOB-00547,Design Intern,Traveloka,Hybrid - Singapore, UI/UX Designer ,Mid-Senior level,Full-time,2024-07-13,Kaggle-LinkedIn-Synthetic
+JOB-00548,Senior UI/UX Designer,Spotify,"San Francisco, CA",UI/UX Designer,Mid-Senior level,Contract,2024-05-17,Kaggle-LinkedIn-Synthetic
+JOB-00549,Senior UI/UX Designer,Airbnb,"jakarta, indonesia",UI/UX Designer,Associate,Full-time,2024-08-10,Kaggle-LinkedIn-Synthetic
+JOB-00550,UX Researcher,Pinterest,,UI/UX Designer,Director,Internship,2024-02-09,Kaggle-LinkedIn-Synthetic
+JOB-00551,UI Designer,Kitabisa,Hybrid - Jakarta,UI/UX Designer,Associate,Full-time,2024-09-10,Kaggle-LinkedIn-Synthetic
+JOB-00552,Interaction Designer,Tokopedia,"Bali, Indonesia",UI/UX Designer,Entry level,Internship,2024-06-04,Kaggle-LinkedIn-Synthetic
+JOB-00553,UX Researcher,Notion,Remote,UI/UX Designer,Mid-Senior level,Internship,2024/07/13,Kaggle-LinkedIn-Synthetic
+JOB-00554,Interaction Designer,Notion,"London, UK",UI/UX Designer,Associate ,Full-time,2024-11-29,Kaggle-LinkedIn-Synthetic
+JOB-00555,UI Designer,Canva,Remote,UI/UX Designer,Associate,Freelance ,2024-12-21,Kaggle-LinkedIn-Synthetic
+JOB-00556,Interaction Designer,Canva,"Medan, Indonesia",UI/UX Designer,Associate,Internship,2024-07-22,Kaggle-LinkedIn-Synthetic
+JOB-00557,UI Designer,Fjord,"Seoul, South Korea",UI/UX Designer,Associate,Contract,2024-05-04,Kaggle-LinkedIn-Synthetic
+JOB-00558,UX Researcher,Spotify,"Austin, TX",UI/UX Designer,Entry level,Full-time,2024-07-05,Kaggle-LinkedIn-Synthetic
+JOB-00559,Design Intern,Ruangguru,"Seoul, South Korea",UI/UX Designer,mid level,Full-time,2024-10-06,Kaggle-LinkedIn-Synthetic
+JOB-00560,Lead Product Designer,Apple,"Berlin, Germany",UI/UX Designer,Entry level,Internship,2024-12-28,Kaggle-LinkedIn-Synthetic
+JOB-00561,Interaction Designer,Netflix,"Surabaya, Indonesia",UI/UX Designer,,Full-time,2024/07/28,Kaggle-LinkedIn-Synthetic
+JOB-00562,Senior UI/UX Designer,Pinterest,"Kuala Lumpur, Malaysia",UI/UX Designer,Director,Part-time,2024-05-09,Kaggle-LinkedIn-Synthetic
+JOB-00563,UX/UI Designer,Accenture,"Austin, TX",UI/UX Designer,Associate,,2024/02/07,Kaggle-LinkedIn-Synthetic
+JOB-00564,Design Intern,Frog Design,"Seoul, South Korea",UI/UX Designer,Entry level,,2024-07-24,Kaggle-LinkedIn-Synthetic
+JOB-00565,Visual Designer,Microsoft,"Seattle, WA",UI/UX Designer,Entry level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00566,Junior UI/UX Designer,Kitabisa,Hybrid - Singapore,UI/UX Designer,Entry level,Contract,2024-12-06,Kaggle-LinkedIn-Synthetic
+JOB-00567,Senior UI/UX Designer,Microsoft,"Seoul, South Korea",UI/UX Designer,,Full-time,2024-11-26,Kaggle-LinkedIn-Synthetic
+,Product Designer,Accenture,"Yogyakarta, Indonesia",UI/UX Designer,Associate,Full-time,2024-01-06,Kaggle-LinkedIn-Synthetic
+JOB-00569,UI Designer,Tiket.com,"jakarta, indonesia",UI/UX Designer,Executive,Contractor,2024-09-22,Kaggle-LinkedIn-Synthetic
+JOB-00570,Interaction Designer,SAP,"Austin, TX",UI/UX Designer,Entry level,Contract,2024-08-25,Kaggle-LinkedIn-Synthetic
+JOB-00571,Product Designer,Apple,remote,UI/UX Designer,Mid-Senior level,Freelance,2024-02-23,Kaggle-LinkedIn-Synthetic
+JOB-00572,UX Researcher,Figma Inc.,"Yogyakarta, Indonesia",UI/UX Designer,Entry level,Freelance ,2024-03-13,Kaggle-LinkedIn-Synthetic
+JOB-00573,UI Designer,Notion,"Berlin, Germany",UI/UX Designer,Associate,Full-time,2024-04-15,Kaggle-LinkedIn-Synthetic
+JOB-00574,Product Designer,Frog Design,"Yogyakarta, Indonesia",UI/UX Designer,Executive,Internship,2024-08-12,Kaggle-LinkedIn-Synthetic
+JOB-00575,Product Designer,Airbnb,"San Francisco, CA",UI/UX Designer,Entry level,Internship,2024-01-23,Kaggle-LinkedIn-Synthetic
+JOB-00576,UI/UX Designer,Notion,Hybrid - Jakarta,UI/UX Designer,Mid-Senior level,Full-time,2024-02-25,Kaggle-LinkedIn-Synthetic
+JOB-00577,UX/UI Designer,Kitabisa,"Sydney, Australia",UI/UX Designer,Mid-Senior,Contract,2024-03-30,Kaggle-LinkedIn-Synthetic
+JOB-00578,Product Designer,Accenture,"Berlin, Germany",UI/UX Designer,Intern,Full-time,2024-04-28,Kaggle-LinkedIn-Synthetic
+JOB-00579,Lead Product Designer,Bukalapak,"Medan, Indonesia",UI/UX Designer,Director,Full-time,2024-11-23,Kaggle-LinkedIn-Synthetic
+JOB-00580,UX Researcher,Apple,Remote,UI/UX Designer,Mid-Senior level,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00581,Design Intern,Accenture,,UI/UX Designer,Intern,Full-time,2024-01-03,Kaggle-LinkedIn-Synthetic
+JOB-00582,UX Designer,Spotify,"Surabaya, Indonesia",UI/UX Designer,Mid-Senior level,Freelance ,2024-10-22,Kaggle-LinkedIn-Synthetic
+JOB-00583,Visual Designer,Bukalapak,"Seattle, WA",UI/UX Designer,,Full-time,2024/06/15,Kaggle-LinkedIn-Synthetic
+JOB-00584,Interaction Designer,Gojek,"Bangkok, Thailand",UI/UX Designer,Associate,,2024-12-09,Kaggle-LinkedIn-Synthetic
+,Visual Designer,Canva,Remote,UI/UX Designer,Mid-Senior level,,2024-07-17,Kaggle-LinkedIn-Synthetic
+JOB-00586,Design Intern,Gojek,"Seattle, WA",UI/UX Designer,Mid-Senior level,,2024-06-29,Kaggle-LinkedIn-Synthetic
+JOB-00587,Design Intern,Bukalapak,Hybrid - Singapore,UI/UX Designer,Mid-Senior level,,,Kaggle-LinkedIn-Synthetic
+JOB-00588,Design Intern,Figma Inc.,Hybrid - Singapore,UI/UX Designer,Director,contract,2024-03-09,Kaggle-LinkedIn-Synthetic
+JOB-00589,Junior UI/UX Designer,Kitabisa,"San Francisco, CA",UI/UX Designer,Entry level,Contract,2024-02-29,Kaggle-LinkedIn-Synthetic
+JOB-00590,Product Designer,Grab,"Sydney, Australia",UI/UX Designer,Mid-Senior level,Full-time,2024-07-17,Kaggle-LinkedIn-Synthetic
+JOB-00591,Design Intern,Shopee,"Seoul, South Korea", ui/ux designer ,Entry level,Contract,2024-07-15,Kaggle-LinkedIn-Synthetic
+JOB-00592,Senior UI/UX Designer,Fjord,Hybrid - Jakarta,UI/UX Designer,Associate,Full-time,2024-10-02,Kaggle-LinkedIn-Synthetic
+JOB-00593,Visual Designer,Traveloka,"Amsterdam, Netherlands",UI/UX Designer,Associate ,Internship,,Kaggle-LinkedIn-Synthetic
+JOB-00594,Senior UI/UX Designer,Canva,"Berlin, Germany",UI/UX Designer,director,Full-time,2024-11-13,Kaggle-LinkedIn-Synthetic
+JOB-00595,Product Designer,Google,"Amsterdam, Netherlands",UI/UX Designer,Entry level,Internship,2024-03-10,Kaggle-LinkedIn-Synthetic
+JOB-00596,UX Researcher,Fjord,"London, UK",UI/UX Designer,,Full-time,2024/12/16,Kaggle-LinkedIn-Synthetic
+JOB-00597,UX Researcher,McKinsey Digital,"Amsterdam, Netherlands",UI/UX Designer,Director,Internship,2024-03-26,Kaggle-LinkedIn-Synthetic
+JOB-00598,Design Intern,Apple,"Kuala Lumpur, Malaysia",UI/UX Designer,Entry level,Full-time,2024-05-29,Kaggle-LinkedIn-Synthetic
+JOB-00599,UI Designer,Tiket.com,"Tokyo, Japan",UI/UX Designer,Entry level,Full-time,2024/05/27,Kaggle-LinkedIn-Synthetic
+JOB-00600,Interaction Designer,Fjord,"Tokyo, Japan",UI/UX Designer,Executive,Full-time,2024-09-18,Kaggle-LinkedIn-Synthetic
+JOB-00111,Senior Data Analyst,Lazada,"Berlin, Germany",Data Analyst,mid level,,2024-05-12,Kaggle-LinkedIn-Synthetic
+JOB-00420,UX/UI Designer,Notion,"Amsterdam, Netherlands",UI/UX Designer,n/a,Full-time,2024-09-22,Kaggle-LinkedIn-Synthetic
+JOB-00566,Junior UI/UX Designer,Kitabisa,Hybrid - Singapore,UI/UX Designer,Entry level,Contract,2024-12-06,Kaggle-LinkedIn-Synthetic
+JOB-00078,Lead Data Analyst,Amazon,,Data Analyst,,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00182,Associate Data Analyst,LinkAja,Hybrid - Jakarta,Data Analyst,Mid-Senior level,Full-time,2024-08-14,Kaggle-LinkedIn-Synthetic
+,Web Developer,Twitter/X,Hybrid - Singapore,Frontend Developer,Director,Full-time,2024-02-11,Kaggle-LinkedIn-Synthetic
+JOB-00011,Junior Data Analyst,McKinsey,Hybrid - Jakarta,Data Analyst,Executive,Full-time,2024-11-12,Kaggle-LinkedIn-Synthetic
+JOB-00470,Visual Designer,McKinsey Digital,"Bandung, Indonesia",UI/UX Designer,Entry level,Internship,2024-08-20,Kaggle-LinkedIn-Synthetic
+JOB-00079,Data Analyst Intern,Gojek,"Bandung, Indonesia",Data Analyst,Entry level,Full-time,2024-06-06,Kaggle-LinkedIn-Synthetic
+JOB-00350,Full Stack Developer (Frontend Focus),Grab,"Jakarta, ID",Frontend Developer,Entry level,Internship,2024/08/07,Kaggle-LinkedIn-Synthetic
+JOB-00056,Senior Data Analyst,Bukalapak,"San Francisco, CA",Data Analyst,Director,Full-time,2024-04-21,Kaggle-LinkedIn-Synthetic
+JOB-00119,BI Analyst,P&G,"Amsterdam, Netherlands",Data Analyst,Mid-Senior level,Full-time,2024-01-04,Kaggle-LinkedIn-Synthetic
+JOB-00110,Associate Data Analyst,Dana,"London, UK",Data Analyst,Mid-Senior level,Contract,2024-10-07,Kaggle-LinkedIn-Synthetic
+JOB-00589,Junior UI/UX Designer,Kitabisa,"San Francisco, CA",UI/UX Designer,Entry level,Contract,2024-02-29,Kaggle-LinkedIn-Synthetic
+JOB-00370,Full Stack Developer (Frontend Focus),Atlassian,Remote,Frontend Developer,n/a,Internship,2024-08-10,Kaggle-LinkedIn-Synthetic
+JOB-00235,JavaScript Developer,Canva,"Tokyo, Japan",Frontend Developer,Entry level,Full-time,2024-07-06,Kaggle-LinkedIn-Synthetic
+JOB-00031,Lead Data Analyst,Spotify,Hybrid - Jakarta,Data Analyst,Executive,Internship,2024-06-01,Kaggle-LinkedIn-Synthetic
+JOB-00213,Junior Frontend Developer,Tokopedia,"Berlin, Germany",Frontend Developer,Mid-Senior level,Freelance,2024-03-26,Kaggle-LinkedIn-Synthetic
+JOB-00141, DATA INSIGHTS ANALYST , shopee ,,Data Analyst,Seniorr,Part-time,2024-03-31,Kaggle-LinkedIn-Synthetic
+JOB-00337,full stack developer (frontend focus), gojek ," Bandung , Indonesia ",Frontend Developer,Executive,Full-time,2024-02-12,Kaggle-LinkedIn-Synthetic
+JOB-00236,Frontend Developer Intern,google,"Bangkok, Thailand",Frontend Developer,Director,Full-time,,Kaggle-LinkedIn-Synthetic
+JOB-00330,full stack developer (frontend focus),THOUGHTWORKS,,Frontend Developer,Entry level,Full-time,2024-07-29,Kaggle-LinkedIn-Synthetic
+JOB-00596,UX Researcher, Fjord ,"London, UK",UI/UX Designer,,Full-time,2024/12/16,Kaggle-LinkedIn-Synthetic
+JOB-00111,SENIOR DATA ANALYST,Lazada,"Berlin, Germany",Data Analyst,mid level,,2024-05-12,Kaggle-LinkedIn-Synthetic
+JOB-00520, senior ui/ux designer , tokopedia ,"Yogyakarta, Indonesia",UI/UX Designer,Entry level,Freelance,2024-09-25,Kaggle-LinkedIn-Synthetic
+JOB-00135,marketing data analyst, P&G ,"Austin, TX",Data Analyst,,full-time,2024-04-11,Kaggle-LinkedIn-Synthetic
+JOB-00160,analytics analyst, OVO ,"Yogyakarta, Indonesia",Data Analyst,Director,Full-time,2024-01-07,Kaggle-LinkedIn-Synthetic
