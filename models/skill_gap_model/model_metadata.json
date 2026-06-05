@@ -158,18 +158,18 @@
   "n_features": 66,
   "n_skill_features": 56,
   "evaluation": {
-    "gap_mae": 0.013584899716079235,
-    "gap_rmse": 0.017599858343601227,
-    "readiness_accuracy": 0.9522222222222222,
-    "weeks_mae": 4.370340347290039,
+    "gap_mae": 0.014336039312183857,
+    "gap_rmse": 0.01867079734802246,
+    "readiness_accuracy": 0.96,
+    "weeks_mae": 4.328129291534424,
     "test_samples": 900,
-    "timestamp": "2026-06-04T22:30:05.921428"
+    "timestamp": "2026-06-05T20:29:00.212334"
   },
   "training_info": {
-    "best_epoch": 91,
-    "best_score": 0.08327875435352322,
-    "stopped_epoch": 106,
-    "total_epochs_history": 106
+    "best_epoch": 111,
+    "best_score": 0.08124127089977262,
+    "stopped_epoch": 126,
+    "total_epochs_history": 126
   },
   "custom_objects": {
     "WeightedGapLoss": {
