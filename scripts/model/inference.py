@@ -192,18 +192,77 @@ def predict_user(target_role, background_level, market_scenario,
 def predict_all_scenarios(target_role, background_level,
                           study_hours_per_week, skill_proficiencies,
                           model=None, metadata=None, df_skill_master=None):
-    """Prediksi untuk semua 3 skenario pasar sekaligus."""
+    """
+    Prediksi untuk semua 3 skenario pasar sekaligus.
+    
+    Logika Bisnis Skenario (Career Scenario Engine):
+    - Kompetitif: persaingan ketat → standar rekrutmen NAIK → gap efektif LEBIH TINGGI (+20%)
+    - Normal   : kondisi standar → gap tetap sesuai baseline model
+    - Booming  : banyak lowongan → standar rekrutmen TURUN → gap efektif LEBIH RENDAH (-15%)
+    
+    Urutan yang benar: gap(Kompetitif) > gap(Normal) > gap(Booming)
+    
+    Note: Model AI memprediksi gap score yang akurat untuk skenario Normal (baseline).
+    Untuk Kompetitif dan Booming, diterapkan business multiplier post-hoc agar
+    urutan skenario konsisten secara logika bisnis, terlepas dari pola yang dipelajari model.
+    """
     
     if model is None:
         model, metadata, df_skill_master = load_model_and_metadata()
     
+    # Business multipliers untuk gap score per skenario
+    # Kompetitif: pasar ketat → gap terasa lebih besar (lebih susah diterima)
+    # Booming   : pasar longgar → gap terasa lebih kecil (lebih mudah diterima)
+    SCENARIO_GAP_MULTIPLIER = {
+        'Normal':     1.00,
+        'Kompetitif': 1.20,   # +20% → gap lebih tinggi
+        'Booming':    0.85,   # -15% → gap lebih rendah
+    }
+    # Weeks multiplier (sesuai user guide di 1_Input.py)
+    SCENARIO_WEEKS_MULTIPLIER = {
+        'Normal':     1.00,
+        'Kompetitif': 1.30,   # +30% → perlu lebih lama belajar
+        'Booming':    0.80,   # -20% → perlu lebih singkat
+    }
+    
+    # Predict baseline (Normal) dulu untuk referensi
+    baseline = predict_user(
+        target_role, background_level, 'Normal',
+        study_hours_per_week, skill_proficiencies,
+        model, metadata, df_skill_master
+    )
+    baseline_gap = baseline['gap_score']
+    baseline_weeks = baseline['estimated_weeks']
+    
     results = {}
     for scenario in ['Normal', 'Kompetitif', 'Booming']:
-        results[scenario] = predict_user(
-            target_role, background_level, scenario,
-            study_hours_per_week, skill_proficiencies,
-            model, metadata, df_skill_master
-        )
+        gap_mult   = SCENARIO_GAP_MULTIPLIER[scenario]
+        weeks_mult = SCENARIO_WEEKS_MULTIPLIER[scenario]
+        
+        # Apply multiplier on top of baseline (Normal) prediction
+        adjusted_gap   = round(min(1.0, baseline_gap * gap_mult), 4)
+        adjusted_weeks = round(max(0.0, baseline_weeks * weeks_mult), 1)
+        
+        # Determine readiness label from adjusted gap score
+        if adjusted_gap <= 0.2:   readiness = "Ready"
+        elif adjusted_gap <= 0.4: readiness = "Almost Ready"
+        elif adjusted_gap <= 0.6: readiness = "Needs Work"
+        elif adjusted_gap <= 0.8: readiness = "Significant Gap"
+        else:                     readiness = "Major Gap"
+        
+        results[scenario] = {
+            'gap_score':         adjusted_gap,
+            'readiness_label':   readiness,
+            'estimated_weeks':   adjusted_weeks,
+            'top_missing_skills': baseline['top_missing_skills'],
+            'all_skill_gaps':     baseline['all_skill_gaps'],
+            'input_summary': {
+                'target_role':          target_role,
+                'background_level':     background_level,
+                'market_scenario':      scenario,
+                'study_hours_per_week': study_hours_per_week,
+            }
+        }
     
     return results
 
